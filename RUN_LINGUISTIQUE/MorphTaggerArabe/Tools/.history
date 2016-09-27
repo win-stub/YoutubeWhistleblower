@@ -1,0 +1,4 @@
+2010-12-13.13-53-54.leucin lt
+2010-12-13.13-54-02.leucin rm atb_common.pm perl_common.pm splitTXT.pl 
+2010-12-13.13-54-27.leucin ln -s /work/smt2/mansour/segmenters/mt_seg/{splitTXT.pl,perl_common.pm,atb_common.pm} .
+2010-12-13.13-54-27.leucin lt

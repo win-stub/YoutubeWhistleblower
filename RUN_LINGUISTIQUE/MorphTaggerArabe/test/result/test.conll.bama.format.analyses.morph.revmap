@@ -1,0 +1,9 @@
+<s> <s>
+ [_NNS_] {(NNS >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_JJ_] {(JJ >lmAnyA)} [_NN_] {(NN >lmAnyA)}
+ [_CC_] {(CC w)} [_NN_] {(NN w)}
+ [_NNP_] {(NNP Alhnd)}
+ [_VBP_] {(VBP tTmHAn)}
+ [_RP__NN_] {(RP l) (NN zyAdp)} [_IN__NN_] {(IN l) (NN zyAdp)}
+ [_NN__PRPS_] {(NN tjArp) (PRPS hmA)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>

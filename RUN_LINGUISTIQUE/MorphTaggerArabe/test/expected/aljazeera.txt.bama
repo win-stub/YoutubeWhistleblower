@@ -1,0 +1,2433 @@
+
+INPUT STRING: «·√Õœ
+LOOK-UP WORD: Al>Hd
+     Comment: 
+  SOLUTION 1: (Al>aHad) [>aHad_1] Al/DET+>aHad/NOUN
+     (GLOSS): the + one/someone + 
+  SOLUTION 2: (Al>aHad) [>aHad_2] Al/DET+>aHad/NOUN_PROP
+     (GLOSS): the + Sunday + 
+  SOLUTION 3: (Al>aHad~) [>aHad~_2] Al/DET+>aHad~/NOUN
+     (GLOSS): the + sharper + 
+
+INPUT STRING: 6
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: /
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 1
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: /
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 1432
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: Â
+LOOK-UP WORD: h
+     Comment: 
+  SOLUTION 1: (h) [h_1] h/ABBREV
+     (GLOSS):  + H/(Hijrah)/5th + 
+
+INPUT STRING: -
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: «·„Ê«›ﬁ
+LOOK-UP WORD: AlmwAfq
+     Comment: 
+  SOLUTION 1: (AlmuwAfiq) [muwAfiq_1] Al/DET+muwAfiq/ADJ
+     (GLOSS): the + agreeing/consenting/corresponding to + 
+
+INPUT STRING: 12
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: /
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 12
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: /
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 2010
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „
+LOOK-UP WORD: m
+     Comment: 
+  SOLUTION 1: (m) [m_1] m/ABBREV
+     (GLOSS):  + (A.D.)/M/13th/meter + 
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: ¬Œ—
+LOOK-UP WORD: |xr
+     Comment: 
+  SOLUTION 1: (|xar) [|xar_1] |xar/NOUN
+     (GLOSS):  + other/another/latest + 
+  SOLUTION 2: (|xar) [|xar_1] |xar/ADJ
+     (GLOSS):  + other/another/latest + 
+  SOLUTION 3: (|xir) [|xir_1] |xir/NOUN
+     (GLOSS):  + last/end + 
+
+INPUT STRING:  ÕœÌÀ
+LOOK-UP WORD: tHdyv
+     Comment: 
+  SOLUTION 1: (taHodiyv) [taHodiyv_1] taHodiyv/NOUN
+     (GLOSS):  + updating/renewing + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: «·”«⁄…
+LOOK-UP WORD: AlsAEp
+     Comment: 
+  SOLUTION 1: (AlsAEap) [sAEap_1] Al/DET+sAE/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + hour/time + [fem.sg.]
+  SOLUTION 2: (AlsAEap) [sAEap_2] Al/DET+sAE/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + clock/watch/timepiece + [fem.sg.]
+
+INPUT STRING: 18
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: :
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 11
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „ﬂ…
+LOOK-UP WORD: mkp
+     Comment: 
+  SOLUTION 1: (mak~ap) [mak~ap_1] mak~/NOUN_PROP+ap/NSUFF_FEM_SG
+     (GLOSS):  + Mecca + [fem.sg.]
+
+INPUT STRING: «·„ﬂ—„…
+LOOK-UP WORD: Almkrmp
+     Comment: 
+  SOLUTION 1: (Almakoramap) [makoram_2] Al/DET+makoram/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + noble trait/excellent quality + [fem.sg.]
+  SOLUTION 2: (Almakorumap) [makorumap_1] Al/DET+makorum/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + noble deed + [fem.sg.]
+  SOLUTION 3: (Almukar~amap) [mukar~am_1] Al/DET+mukar~am/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + honored/revered + [fem.sg.]
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: ,
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 15
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: :
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 11
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: €—Ì‰ ‘
+LOOK-UP WORD: grynt$
+     Comment: 
+  SOLUTION 1: (griynito$) [jriynito$_1] griynito$/NOUN_PROP
+     (GLOSS):  + Greenwich + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: Ê«·Â‰œ
+LOOK-UP WORD: wAlhnd
+     Comment: 
+  SOLUTION 1: (waAlhinod) [hinod_1] wa/CONJ+Al/DET+hinod/NOUN_PROP
+     (GLOSS): and + the + India + 
+
+INPUT STRING:  ÿ„Õ«‰
+LOOK-UP WORD: tTmHAn
+     Comment: 
+  SOLUTION 1: (taTomaHAni) [TamaH-a_1] ta/IV2D+TomaH/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): you (both) + covet/desire + [du.]
+  SOLUTION 2: (taTomaHAni) [TamaH-a_1] ta/IV3FD+TomaH/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) [fem.du.] + covet/desire + [du.]
+
+INPUT STRING: ·“Ì«œ…
+LOOK-UP WORD: lzyAdp
+     Comment: 
+  SOLUTION 1: (liziyAdap) [ziyAdap_1] li/PREP+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): for/to + increase/addition + [fem.sg.]
+  SOLUTION 2: (laziyAdap) [ziyAdap_1] la/EMPHATIC_PARTICLE+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): indeed/truly + increase/addition + [fem.sg.]
+
+INPUT STRING:  Ã«— Â„«
+LOOK-UP WORD: tjArthmA
+     Comment: 
+  SOLUTION 1: (tijArathmA) [tijArap_1] tijAr/NOUN+ap/NSUFF_FEM_SG+humA/POSS_PRON_3D
+     (GLOSS):  + commerce/business + their
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: ﬁ«· 
+LOOK-UP WORD: qAlt
+     Comment: 
+  SOLUTION 1: (qAlat) [qAl-u_1] qAl/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS):  + said + it/they/she <verb>
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: Ê«·Â‰œ
+LOOK-UP WORD: wAlhnd
+     Comment: 
+  SOLUTION 1: (waAlhinod) [hinod_1] wa/CONJ+Al/DET+hinod/NOUN_PROP
+     (GLOSS): and + the + India + 
+
+INPUT STRING: ≈‰Â„«
+LOOK-UP WORD: <nhmA
+     Comment: 
+  SOLUTION 1: (<in~ahumA) [<in~a_1] <in~a/FUNC_WORD+humA/PRON_3D
+     (GLOSS):  + that/indeed + they (both)
+
+INPUT STRING:  ” Âœ›«‰
+LOOK-UP WORD: tsthdfAn
+     Comment: 
+  SOLUTION 1: (tasotahodifAni) [{isotahodaf_1] ta/IV2D+sotahodif/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): you (both) + target/aim at + [du.]
+  SOLUTION 2: (tusotahodafAni) [{isotahodaf_1] tu/IV2D+sotahodaf/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): you (both) + be targeted/be aimed at + [du.]
+  SOLUTION 3: (tasotahodifAni) [{isotahodaf_1] ta/IV3FD+sotahodif/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) [fem.du.] + target/aim at + [du.]
+  SOLUTION 4: (tusotahodafAni) [{isotahodaf_1] tu/IV3FD+sotahodaf/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) [fem.du.] + be targeted/be aimed at + [du.]
+
+INPUT STRING: “Ì«œ…
+LOOK-UP WORD: zyAdp
+     Comment: 
+  SOLUTION 1: (ziyAdap) [ziyAdap_1] ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + increase/addition + [fem.sg.]
+
+INPUT STRING: ÕÃ„
+LOOK-UP WORD: Hjm
+     Comment: 
+  SOLUTION 1: (Hajama) [Hajam-u_1] Hajam/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + cup/muzzle + he/it <verb>
+  SOLUTION 2: (Hajom) [Hajom_1] Hajom/NOUN
+     (GLOSS):  + volume/size + 
+
+INPUT STRING: «· »«œ·
+LOOK-UP WORD: AltbAdl
+     Comment: 
+  SOLUTION 1: (AltabAdul) [tabAdul_1] Al/DET+tabAdul/NOUN
+     (GLOSS): the + exchange + 
+
+INPUT STRING: «· Ã«—Ì
+LOOK-UP WORD: AltjAry
+     Comment: 
+  SOLUTION 1: (AltijAriy~) [tijAriy~_1] Al/DET+tijAriy~/ADJ
+     (GLOSS): the + commercial/business + 
+
+INPUT STRING: »Ì‰Â„«
+LOOK-UP WORD: bynhmA
+     Comment: 
+  SOLUTION 1: (bayonahumA) [bayona_1] bayona/PREP+humA/PRON_3D
+     (GLOSS):  + between/among + them (both)
+  SOLUTION 2: (bayonihimA) [bayona_1] bayoni/PREP+himA/PRON_3D
+     (GLOSS):  + between/among + them (both)
+  SOLUTION 3: (bay~anahumA) [bay~an_1] bay~an/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+humA/PVSUFF_DO:3D
+     (GLOSS):  + declare/demonstrate + he/it <verb> them (both)
+  SOLUTION 4: (bay~an~ahumA) [bay~an_1] bay~an/VERB_PERFECT+na/PVSUFF_SUBJ:3FP+humA/PVSUFF_DO:3D
+     (GLOSS):  + declare/demonstrate + they <verb> (both of) them
+  SOLUTION 5: (bay~inhmA) [bay~in_1] bay~in/NOUN+humA/POSS_PRON_3D
+     (GLOSS):  + clear/evident/explicit + their
+  SOLUTION 6: (biyinhmA) [yin_1] bi/PREP+yin/NOUN_PROP+humA/POSS_PRON_3D
+     (GLOSS): by/with + Yen + their
+
+INPUT STRING: Œ·«·
+LOOK-UP WORD: xlAl
+     Comment: 
+  SOLUTION 1: (xilAla) [xilAla_1] xilAla/PREP
+     (GLOSS):  + during/through + 
+  SOLUTION 2: (xilAli) [xilAla_1] xilAli/PREP
+     (GLOSS):  + during/through + 
+
+INPUT STRING: «·⁄«„Ì‰
+LOOK-UP WORD: AlEAmyn
+     Comment: 
+  SOLUTION 1: (AlEAm~ayoni) [EAm~_1] Al/DET+EAm~/ADJ+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + general/common/public + two
+  SOLUTION 2: (AlEAmayoni) [EAm_1] Al/DET+EAm/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + year + two
+
+INPUT STRING: «·„ﬁ»·Ì‰
+LOOK-UP WORD: Almqblyn
+     Comment: 
+  SOLUTION 1: (Almuqobilayoni) [muqobil_1] Al/DET+muqobil/ADJ+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + next/coming/approaching + two
+
+INPUT STRING: ·Ì Ã«Ê“
+LOOK-UP WORD: lytjAwz
+     Comment: 
+  SOLUTION 1: (liyatajAwaz) [tajAwaz_1] li/SUBJUNC+ya/IV3MS+tajAwaz/VERB_IMPERFECT
+     (GLOSS): for + him/it to + exceed/disregard + 
+
+INPUT STRING: «·„” ÊÏ
+LOOK-UP WORD: AlmstwY
+     Comment: 
+  SOLUTION 1: (AlmusotawaY) [musotawaY_1] Al/DET+musotawaY/NOUN
+     (GLOSS): the + level/standard + 
+
+INPUT STRING: «·Õ«·Ì
+LOOK-UP WORD: AlHAly
+     Comment: 
+  SOLUTION 1: (AlHAliy~) [HAliy~_1] Al/DET+HAliy~/ADJ
+     (GLOSS): the + present/current + 
+
+INPUT STRING: »‰”»…
+LOOK-UP WORD: bnsbp
+     Comment: 
+  SOLUTION 1: (binisobap) [nisobap_1] bi/PREP+nisob/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): by/with + ratio/rate + [fem.sg.]
+  SOLUTION 2: (binisobap) [nisobap_2] bi/PREP+nisob/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): by/with + link/relation + [fem.sg.]
+
+INPUT STRING: 50
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: %
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê’—Õ 
+LOOK-UP WORD: wSrHt
+     Comment: 
+  SOLUTION 1: (waSaruHotu) [SaruH-u_1] wa/CONJ+SaruH/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS): and + be frank/be candid + I <verb>
+  SOLUTION 2: (waSaruHota) [SaruH-u_1] wa/CONJ+SaruH/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS): and + be frank/be candid + you [masc.sg.] <verb>
+  SOLUTION 3: (waSaruHoti) [SaruH-u_1] wa/CONJ+SaruH/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS): and + be frank/be candid + you [fem.sg.] <verb>
+  SOLUTION 4: (waSaruHat) [SaruH-u_1] wa/CONJ+SaruH/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS): and + be frank/be candid + it/they/she <verb>
+  SOLUTION 5: (waSaraHotu) [SaraH-a_1] wa/CONJ+SaraH/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS): and + clarify + I <verb>
+  SOLUTION 6: (waSaraHota) [SaraH-a_1] wa/CONJ+SaraH/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS): and + clarify + you [masc.sg.] <verb>
+  SOLUTION 7: (waSaraHoti) [SaraH-a_1] wa/CONJ+SaraH/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS): and + clarify + you [fem.sg.] <verb>
+  SOLUTION 8: (waSaraHat) [SaraH-a_1] wa/CONJ+SaraH/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS): and + clarify + it/they/she <verb>
+  SOLUTION 9: (waSar~aHotu) [Sar~aH_1] wa/CONJ+Sar~aH/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS): and + declare/announce + I <verb>
+  SOLUTION 10: (waSar~aHota) [Sar~aH_1] wa/CONJ+Sar~aH/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS): and + declare/announce + you [masc.sg.] <verb>
+  SOLUTION 11: (waSar~aHoti) [Sar~aH_1] wa/CONJ+Sar~aH/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS): and + declare/announce + you [fem.sg.] <verb>
+  SOLUTION 12: (waSar~aHat) [Sar~aH_1] wa/CONJ+Sar~aH/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS): and + declare/announce + it/they/she <verb>
+
+INPUT STRING: «·„” ‘«—…
+LOOK-UP WORD: Almst$Arp
+     Comment: 
+  SOLUTION 1: (Almusota$Arap) [musota$Ar_1] Al/DET+musota$Ar/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + counselor/adviser + [fem.sg.]
+
+INPUT STRING: «·√·„«‰Ì…
+LOOK-UP WORD: Al>lmAnyp
+     Comment: 
+  SOLUTION 1: (Al>alomAniy~ap) [>alomAniy~_1] Al/DET+>alomAniy~/NOUN_PROP+ap/NSUFF_FEM_SG
+     (GLOSS): the + Germany + [fem.sg.]
+  SOLUTION 2: (Al>alomAniy~ap) [>alomAniy~_2] Al/DET+>alomAniy~/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + German + [fem.sg.]
+  SOLUTION 3: (Al>alomAniy~ap) [>alomAniy~_2] Al/DET+>alomAniy~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + German + [fem.sg.]
+
+INPUT STRING: √‰ÃÌ·«
+LOOK-UP WORD: >njylA
+     Comment: >njylA NOT FOUND
+
+INPUT STRING: „Ì—ﬂ·
+LOOK-UP WORD: myrkl
+     Comment: myrkl NOT FOUND
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: „ƒ „—
+LOOK-UP WORD: m&tmr
+     Comment: 
+  SOLUTION 1: (mu&otamar) [mu&otamar_1] mu&otamar/NOUN
+     (GLOSS):  + conference/convention + 
+
+INPUT STRING: ’Õ›Ì
+LOOK-UP WORD: SHfy
+     Comment: 
+  SOLUTION 1: (SuHufiy~) [SuHufiy~_1] SuHufiy~/ADJ
+     (GLOSS):  + journalistic/press/newspaper + 
+  SOLUTION 2: (SuHufiy~) [SuHufiy~_2] SuHufiy~/NOUN
+     (GLOSS):  + journalist/reporter + 
+  SOLUTION 3: (SuHufiy) [SaHiyfap_1] SuHuf/NOUN+iy/POSS_PRON_1S
+     (GLOSS):  + newspapers + my
+
+INPUT STRING: Ã„⁄Â«
+LOOK-UP WORD: jmEhA
+     Comment: 
+  SOLUTION 1: (jamaEahA) [jamaE-a_1] jamaE/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+hA/PVSUFF_DO:3FS
+     (GLOSS):  + gather/assemble + he/it <verb> it/them/her
+  SOLUTION 2: (jam~aEahA) [jam~aE_1] jam~aE/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+hA/PVSUFF_DO:3FS
+     (GLOSS):  + accumulate/assemble + he/it <verb> it/them/her
+  SOLUTION 3: (jamoEhA) [jamoE_1] jamoE/NOUN+hA/POSS_PRON_3FS
+     (GLOSS):  + gathering/collection/joining + its/their/her
+
+INPUT STRING: »—∆Ì”
+LOOK-UP WORD: br}ys
+     Comment: 
+  SOLUTION 1: (bira}iys) [ra}iys_1] bi/PREP+ra}iys/NOUN
+     (GLOSS): by/with + president/head/chairman + 
+
+INPUT STRING: «·Ê“—«¡
+LOOK-UP WORD: AlwzrA'
+     Comment: 
+  SOLUTION 1: (AlwuzarA') [waziyr_1] Al/DET+wuzarA'/NOUN
+     (GLOSS): the + ministers + 
+
+INPUT STRING: «·Â‰œÌ
+LOOK-UP WORD: Alhndy
+     Comment: 
+  SOLUTION 1: (Alhinodiy~) [hinodiy~_1] Al/DET+hinodiy~/ADJ
+     (GLOSS): the + Indian + 
+
+INPUT STRING: „«‰„ÊÂ«‰
+LOOK-UP WORD: mAnmwhAn
+     Comment: mAnmwhAn NOT FOUND
+
+INPUT STRING: ”Ì‰€
+LOOK-UP WORD: syng
+     Comment: 
+  SOLUTION 1: (siyng) [siyng_1] siyng/NOUN_PROP
+     (GLOSS):  + Singh + 
+  SOLUTION 2: (sayanog) [nagA-u_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+  SOLUTION 3: (sayanog) [nagaY-i_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: »—·Ì‰
+LOOK-UP WORD: brlyn
+     Comment: 
+  SOLUTION 1: (baroliyn) [baroliyn_1] baroliyn/NOUN_PROP
+     (GLOSS):  + Berlin + 
+
+INPUT STRING: «·”» 
+LOOK-UP WORD: Alsbt
+     Comment: 
+  SOLUTION 1: (Alsabot) [sabot_1] Al/DET+sabot/NOUN_PROP
+     (GLOSS): the + Saturday + 
+  SOLUTION 2: (Alsabat) [sabat_1] Al/DET+sabat/NOUN
+     (GLOSS): the + basket + 
+  SOLUTION 3: (Alsibit~) [sibit~_1] Al/DET+sibit~/NOUN
+     (GLOSS): the + dill + 
+
+INPUT STRING: »√‰
+LOOK-UP WORD: b>n
+     Comment: 
+  SOLUTION 1: (bi>an) [bi>an_1] bi/PREP+>an/FUNC_WORD
+     (GLOSS):  + with + that + 
+  SOLUTION 2: (bi>an~a) [bi>an~a_1] bi/PREP+>an~a/FUNC_WORD
+     (GLOSS):  + with + that + 
+
+INPUT STRING: «·ÿ—›Ì‰
+LOOK-UP WORD: AlTrfyn
+     Comment: 
+  SOLUTION 1: (AlTarafayoni) [Taraf_1] Al/DET+Taraf/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + party/side + two
+
+INPUT STRING: Ìÿ„Õ«‰
+LOOK-UP WORD: yTmHAn
+     Comment: 
+  SOLUTION 1: (yaTomaHAni) [TamaH-a_1] ya/IV3MD+TomaH/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) + covet/desire + [du.]
+
+INPUT STRING: ≈·Ï
+LOOK-UP WORD: <lY
+     Comment: 
+  SOLUTION 1: (<ilaY) [<ilaY_1] <ilaY/PREP
+     (GLOSS):  + to/towards + 
+
+INPUT STRING: “Ì«œ…
+LOOK-UP WORD: zyAdp
+     Comment: 
+  SOLUTION 1: (ziyAdap) [ziyAdap_1] ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + increase/addition + [fem.sg.]
+
+INPUT STRING: «· Ã«—…
+LOOK-UP WORD: AltjArp
+     Comment: 
+  SOLUTION 1: (AltijArap) [tijArap_1] Al/DET+tijAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + commerce/business + [fem.sg.]
+
+INPUT STRING: «·”‰ÊÌ…
+LOOK-UP WORD: Alsnwyp
+     Comment: 
+  SOLUTION 1: (Alsanawiy~ap) [sanawiy~_1] Al/DET+sanawiy~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + yearly/annual + [fem.sg.]
+
+INPUT STRING: »Ì‰
+LOOK-UP WORD: byn
+     Comment: 
+  SOLUTION 1: (bayona) [bayona_1] bayona/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 2: (bayoni) [bayona_1] bayoni/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 3: (bay~ana) [bay~an_1] bay~an/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + declare/demonstrate + he/it <verb>
+  SOLUTION 4: (bay~an~a) [bay~an_1] bay~an/VERB_PERFECT+na/PVSUFF_SUBJ:3FP
+     (GLOSS):  + declare/demonstrate + they [fem.pl.] <verb>
+  SOLUTION 5: (bay~in) [bay~in_1] bay~in/NOUN
+     (GLOSS):  + clear/evident/explicit + 
+  SOLUTION 6: (biyin) [yin_1] bi/PREP+yin/NOUN_PROP
+     (GLOSS): by/with + Yen + 
+
+INPUT STRING: «·»·œÌ‰
+LOOK-UP WORD: Albldyn
+     Comment: 
+  SOLUTION 1: (Albaladayoni) [balad_1] Al/DET+balad/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + country + two
+
+INPUT STRING: · »·€
+LOOK-UP WORD: ltblg
+     Comment: 
+  SOLUTION 1: (latabal~aga) [tabal~ag_1] la/RESULT_CLAUSE_PARTICLE+tabal~ag/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS): would have + be informed + he/it <verb>
+  SOLUTION 2: (litabolug) [balag-u_1] li/SUBJUNC+ta/IV3FS+bolug/VERB_IMPERFECT
+     (GLOSS): for + it/them/her (to) + reach/attain + 
+  SOLUTION 3: (litabolug) [balug-u_1] li/SUBJUNC+ta/IV3FS+bolug/VERB_IMPERFECT
+     (GLOSS): for + it/them/her (to) + be eloquent + 
+  SOLUTION 4: (litubal~ig) [bal~ag_1] li/SUBJUNC+tu/IV3FS+bal~ig/VERB_IMPERFECT
+     (GLOSS): for + it/them/her (to) + communicate/convey + 
+  SOLUTION 5: (litubolig) [>abolag_1] li/SUBJUNC+tu/IV3FS+bolig/VERB_IMPERFECT
+     (GLOSS): for + it/them/her (to) + report/inform/notify + 
+  SOLUTION 6: (litubolag) [>abolag_1] li/SUBJUNC+tu/IV3FS+bolag/VERB_IMPERFECT
+     (GLOSS): for + it/them/her (to) + be reported/be informed/be notified + 
+  SOLUTION 7: (litabolug) [balag-u_1] li/SUBJUNC+ta/IV2MS+bolug/VERB_IMPERFECT
+     (GLOSS): for + you [masc.sg.] (to) + reach/attain + 
+  SOLUTION 8: (litabolug) [balug-u_1] li/SUBJUNC+ta/IV2MS+bolug/VERB_IMPERFECT
+     (GLOSS): for + you [masc.sg.] (to) + be eloquent + 
+  SOLUTION 9: (litubal~ig) [bal~ag_1] li/SUBJUNC+tu/IV2MS+bal~ig/VERB_IMPERFECT
+     (GLOSS): for + you [masc.sg.] (to) + communicate/convey + 
+  SOLUTION 10: (litubolig) [>abolag_1] li/SUBJUNC+tu/IV2MS+bolig/VERB_IMPERFECT
+     (GLOSS): for + you [masc.sg.] (to) + report/inform/notify + 
+  SOLUTION 11: (litubolag) [>abolag_1] li/SUBJUNC+tu/IV2MS+bolag/VERB_IMPERFECT
+     (GLOSS): for + you [masc.sg.] (to) + be reported/be informed/be notified + 
+
+INPUT STRING: 20
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: ÌÊ—Ê
+LOOK-UP WORD: ywrw
+     Comment: 
+  SOLUTION 1: (yuwruw) [yuwruw_1] yuwruw/NOUN_PROP
+     (GLOSS):  + Euro + 
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 26
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 5
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: œÊ·«—
+LOOK-UP WORD: dwlAr
+     Comment: 
+  SOLUTION 1: (duwlAr) [duwlAr_1] duwlAr/NOUN
+     (GLOSS):  + dollar + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: »Õ·Ê·
+LOOK-UP WORD: bHlwl
+     Comment: 
+  SOLUTION 1: (biHuluwl) [Hal~_1] bi/PREP+Huluwl/NOUN
+     (GLOSS): by/with + solutions/dissolutions/cancellations + 
+  SOLUTION 2: (biHuluwl) [Huluwl_1] bi/PREP+Huluwl/NOUN
+     (GLOSS): by/with + advent/beginning/start/arrival + 
+
+INPUT STRING: ⁄«„
+LOOK-UP WORD: EAm
+     Comment: 
+  SOLUTION 1: (EAm~) [EAm~_1] EAm~/ADJ
+     (GLOSS):  + general/common/public + 
+  SOLUTION 2: (EAm) [EAm_1] EAm/NOUN
+     (GLOSS):  + year + 
+
+INPUT STRING: 2012
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê⁄»— 
+LOOK-UP WORD: wEbrt
+     Comment: 
+  SOLUTION 1: (waEabarotu) [Eabar-u_1] wa/CONJ+Eabar/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS): and + cross/traverse + I <verb>
+  SOLUTION 2: (waEabarota) [Eabar-u_1] wa/CONJ+Eabar/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS): and + cross/traverse + you [masc.sg.] <verb>
+  SOLUTION 3: (waEabaroti) [Eabar-u_1] wa/CONJ+Eabar/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS): and + cross/traverse + you [fem.sg.] <verb>
+  SOLUTION 4: (waEabarat) [Eabar-u_1] wa/CONJ+Eabar/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS): and + cross/traverse + it/they/she <verb>
+  SOLUTION 5: (waEab~arotu) [Eab~ar_1] wa/CONJ+Eab~ar/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS): and + express + I <verb>
+  SOLUTION 6: (waEab~arota) [Eab~ar_1] wa/CONJ+Eab~ar/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS): and + express + you [masc.sg.] <verb>
+  SOLUTION 7: (waEab~aroti) [Eab~ar_1] wa/CONJ+Eab~ar/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS): and + express + you [fem.sg.] <verb>
+  SOLUTION 8: (waEab~arat) [Eab~ar_1] wa/CONJ+Eab~ar/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS): and + express + it/they/she <verb>
+
+INPUT STRING: «·„” ‘«—…
+LOOK-UP WORD: Almst$Arp
+     Comment: 
+  SOLUTION 1: (Almusota$Arap) [musota$Ar_1] Al/DET+musota$Ar/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + counselor/adviser + [fem.sg.]
+
+INPUT STRING: ⁄‰
+LOOK-UP WORD: En
+     Comment: 
+  SOLUTION 1: (Ean) [Ean_1] Ean/PREP
+     (GLOSS):  + from/about + 
+  SOLUTION 2: (Ean~a) [Eam~an_1] Ean~/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + come to mind/occur + he/it <verb>
+
+INPUT STRING: Àﬁ Â«
+LOOK-UP WORD: vqthA
+     Comment: 
+  SOLUTION 1: (viqathA) [viqap_1] viq/NOUN+ap/NSUFF_FEM_SG+hA/POSS_PRON_3FS
+     (GLOSS):  + trust/confidence + its/their/her
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: √‰
+LOOK-UP WORD: >n
+     Comment: 
+  SOLUTION 1: (>an) [>an_1] >an/FUNC_WORD
+     (GLOSS):  + to + 
+  SOLUTION 2: (>an~a) [>an~a_1] >an~a/FUNC_WORD
+     (GLOSS):  + that + 
+  SOLUTION 3: (<in) [<in_1] <in/FUNC_WORD
+     (GLOSS):  + if/whether + 
+  SOLUTION 4: (<in~a) [<in~a_1] <in~a/FUNC_WORD
+     (GLOSS):  + that/indeed + 
+  SOLUTION 5: (<in) [<in_2] <in/ABBREV
+     (GLOSS):  + N. + 
+
+INPUT STRING: «ﬁ ’«œ
+LOOK-UP WORD: AqtSAd
+     Comment: 
+  SOLUTION 1: ({iqotiSAd) [{iqotiSAd_1] {iqotiSAd/NOUN
+     (GLOSS):  + economy/saving + 
+
+INPUT STRING: «·Â‰œ
+LOOK-UP WORD: Alhnd
+     Comment: 
+  SOLUTION 1: (Alhinod) [hinod_1] Al/DET+hinod/NOUN_PROP
+     (GLOSS): the + India + 
+
+INPUT STRING: «·„ ’«⁄œ
+LOOK-UP WORD: AlmtSAEd
+     Comment: 
+  SOLUTION 1: (AlmutaSAEid) [mutaSAEid_1] Al/DET+mutaSAEid/NOUN
+     (GLOSS): the + rising/ascending + 
+
+INPUT STRING: ”ÌÊ›—
+LOOK-UP WORD: sywfr
+     Comment: 
+  SOLUTION 1: (sayawofur) [wafur_1] sa/FUT+ya/IV3MS+wofur/VERB_IMPERFECT
+     (GLOSS): will + he/it + be plentiful + 
+  SOLUTION 2: (sayuwaf~ir) [waf~ar_1] sa/FUT+yu/IV3MS+waf~ir/VERB_IMPERFECT
+     (GLOSS): will + he/it + provide/fulfill + 
+  SOLUTION 3: (sayuwfir) [>awofar_1] sa/FUT+yu/IV3MS+wfir/VERB_IMPERFECT
+     (GLOSS): will + he/it + increase + 
+  SOLUTION 4: (sayuwfar) [>awofar_1] sa/FUT+yu/IV3MS+wfar/VERB_IMPERFECT
+     (GLOSS): will + he/it + be increased + 
+
+INPUT STRING: ›—’«
+LOOK-UP WORD: frSA
+     Comment: 
+  SOLUTION 1: (furaSAF) [furoSap_1] furaS/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + opportunities/chances + [acc.indef.]
+  SOLUTION 2: (furaSAF) [furoSap_2] furaS/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + holidays + [acc.indef.]
+  SOLUTION 3: (faraS~A) [raS~-u_1] fa/CONJ+raS~/VERB_PERFECT+A/PVSUFF_SUBJ:3MD
+     (GLOSS): and/so + compress/join together/align + they (both) <verb>
+
+INPUT STRING:  ⁄Êœ
+LOOK-UP WORD: tEwd
+     Comment: 
+  SOLUTION 1: (taEaw~ada) [taEaw~ad_1] taEaw~ad/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + be accustomed/be used to + he/it <verb>
+  SOLUTION 2: (taEaw~ud) [taEaw~ud_1] taEaw~ud/NOUN
+     (GLOSS):  + habituation + 
+  SOLUTION 3: (taEuwd) [EAd-u_1] ta/IV3FS+Euwd/VERB_IMPERFECT
+     (GLOSS): it/they/she + return/go back + 
+  SOLUTION 4: (tuEaw~id) [Eaw~ad_1] tu/IV3FS+Eaw~id/VERB_IMPERFECT
+     (GLOSS): it/they/she + accustom/condition/habituate + 
+  SOLUTION 5: (taEuwd) [EAd-u_1] ta/IV2MS+Euwd/VERB_IMPERFECT
+     (GLOSS): you [masc.sg.] + return/go back + 
+  SOLUTION 6: (tuEaw~id) [Eaw~ad_1] tu/IV2MS+Eaw~id/VERB_IMPERFECT
+     (GLOSS): you [masc.sg.] + accustom/condition/habituate + 
+
+INPUT STRING: »«·›«∆œ…
+LOOK-UP WORD: bAlfA}dp
+     Comment: 
+  SOLUTION 1: (biAlfA}idap) [fA}idap_1] bi/PREP+Al/DET+fA}id/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): with/by + the + benefit/use + [fem.sg.]
+
+INPUT STRING: ⁄·Ï
+LOOK-UP WORD: ElY
+     Comment: 
+  SOLUTION 1: (EalaY) [EalaY_1] EalaY/PREP
+     (GLOSS):  + on/above + 
+  SOLUTION 2: (Ealiy~) [Ealiy~_2] Ealiy~/NOUN_PROP
+     (GLOSS):  + Ali + 
+
+INPUT STRING: «·ÿ—›Ì‰
+LOOK-UP WORD: AlTrfyn
+     Comment: 
+  SOLUTION 1: (AlTarafayoni) [Taraf_1] Al/DET+Taraf/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + party/side + two
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: „‰
+LOOK-UP WORD: mn
+     Comment: 
+  SOLUTION 1: (min) [min_1] min/PREP
+     (GLOSS):  + from + 
+  SOLUTION 2: (man) [man_1] man/REL_PRON
+     (GLOSS):  + who/whom + 
+  SOLUTION 3: (man) [man_2] man/INTERROG_PART
+     (GLOSS):  + who/whom + 
+
+INPUT STRING: ÃÂ Â
+LOOK-UP WORD: jhth
+     Comment: 
+  SOLUTION 1: (jihath) [jihap_1] jih/NOUN+ap/NSUFF_FEM_SG+hu/POSS_PRON_3MS
+     (GLOSS):  + side/part/direction + his/its
+
+INPUT STRING: ﬁ«·
+LOOK-UP WORD: qAl
+     Comment: 
+  SOLUTION 1: (qAla) [qAl-u_1] qAl/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + said + he/it <verb>
+
+INPUT STRING: ”Ì‰€
+LOOK-UP WORD: syng
+     Comment: 
+  SOLUTION 1: (siyng) [siyng_1] siyng/NOUN_PROP
+     (GLOSS):  + Singh + 
+  SOLUTION 2: (sayanog) [nagA-u_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+  SOLUTION 3: (sayanog) [nagaY-i_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+
+INPUT STRING: ≈‰
+LOOK-UP WORD: <n
+     Comment: 
+  SOLUTION 1: (<in) [<in_1] <in/FUNC_WORD
+     (GLOSS):  + if/whether + 
+  SOLUTION 2: (<in~a) [<in~a_1] <in~a/FUNC_WORD
+     (GLOSS):  + that/indeed + 
+  SOLUTION 3: (<in) [<in_2] <in/ABBREV
+     (GLOSS):  + N. + 
+
+INPUT STRING: "
+     Comment: Non-Alphabetic Data
+
+INPUT STRING:  ⁄«Ê‰‰«
+LOOK-UP WORD: tEAwnnA
+     Comment: 
+  SOLUTION 1: (taEAwananA) [taEAwan_1] taEAwan/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+nA/PVSUFF_DO:1P
+     (GLOSS):  + cooperate + he/it <verb> us
+  SOLUTION 2: (taEAwan~anA) [taEAwan_1] taEAwan/VERB_PERFECT+na/PVSUFF_SUBJ:3FP+nA/PVSUFF_DO:1P
+     (GLOSS):  + cooperate + they <verb> us
+  SOLUTION 3: (taEAwunnA) [taEAwun_1] taEAwun/NOUN+nA/POSS_PRON_1P
+     (GLOSS):  + cooperation + our
+  SOLUTION 4: (tuEAwinnA) [EAwan_1] tu/IV3FS+EAwin/VERB_IMPERFECT+nA/IVSUFF_DO:1P
+     (GLOSS): it/they/she + assist/support + us
+  SOLUTION 5: (tuEAwinnA) [EAwan_1] tu/IV2MS+EAwin/VERB_IMPERFECT+nA/IVSUFF_DO:1P
+     (GLOSS): you [masc.sg.] + assist/support + us
+  SOLUTION 6: (tuEAwin~anA) [EAwan_1] tu/IV2FP+EAwin/VERB_IMPERFECT+na/IVSUFF_SUBJ:FP+nA/IVSUFF_DO:1P
+     (GLOSS): you [fem.pl.] + assist/support + us
+
+INPUT STRING: ·«
+LOOK-UP WORD: lA
+     Comment: 
+  SOLUTION 1: (lA) [lA_1] lA/NEG_PART
+     (GLOSS):  + no/not + 
+
+INPUT STRING: Ì⁄—›
+LOOK-UP WORD: yErf
+     Comment: 
+  SOLUTION 1: (yaEorif) [Earaf-i_1] ya/IV3MS+Eorif/VERB_IMPERFECT
+     (GLOSS): he/it + know + 
+  SOLUTION 2: (yuEoraf) [Earaf-i_1] yu/IV3MS+Eoraf/VERB_IMPERFECT
+     (GLOSS): he/it + be known + 
+  SOLUTION 3: (yuEar~if) [Ear~af_1] yu/IV3MS+Ear~if/VERB_IMPERFECT
+     (GLOSS): he/it + acquaint + 
+
+INPUT STRING: ÕœÊœ«
+LOOK-UP WORD: HdwdA
+     Comment: 
+  SOLUTION 1: (HuduwdAF) [Had~_1] Huduwd/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + border/frontier/limits + [acc.indef.]
+
+INPUT STRING: "
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: „‘Ìœ«
+LOOK-UP WORD: m$ydA
+     Comment: 
+  SOLUTION 1: (mu$ay~adAF) [mu$ay~ad_1] mu$ay~ad/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + lofty + [acc.indef.]
+  SOLUTION 2: (mu$ay~adA) [mu$ay~ad_1] mu$ay~ad/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + lofty + two
+  SOLUTION 3: (mu$ay~idAF) [mu$ay~id_1] mu$ay~id/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + builder/constructor + [acc.indef.]
+  SOLUTION 4: (mu$ay~idA) [mu$ay~id_1] mu$ay~id/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + builder/constructor + two
+
+INPUT STRING: »⁄·«ﬁ« 
+LOOK-UP WORD: bElAqAt
+     Comment: 
+  SOLUTION 1: (biEalAqAt) [EalAqap_1] bi/PREP+EalAq/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): by/with + ties/relations/contacts/links + [fem.pl.]
+
+INPUT STRING: »·«œÂ
+LOOK-UP WORD: blAdh
+     Comment: 
+  SOLUTION 1: (bilAdh) [balad_1] bilAd/NOUN+hu/POSS_PRON_3MS
+     (GLOSS):  + country/countries + its/his
+
+INPUT STRING: "
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: «·„ „Ì“…
+LOOK-UP WORD: Almtmyzp
+     Comment: 
+  SOLUTION 1: (Almutamay~izap) [mutamay~iz_1] Al/DET+mutamay~iz/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + distinguished/outstanding/prominent + [fem.sg.]
+
+INPUT STRING: "
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „⁄
+LOOK-UP WORD: mE
+     Comment: 
+  SOLUTION 1: (maEa) [maEa_1] maEa/PREP
+     (GLOSS):  + with + 
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê√÷«›
+LOOK-UP WORD: w>DAf
+     Comment: 
+  SOLUTION 1: (wa>aDAfa) [>aDAf_1] wa/CONJ+>aDAf/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS): and + add + he/it <verb>
+  SOLUTION 2: (wa>uDAf) [>aDAf_1] wa/CONJ+>u/IV1S+DAf/VERB_IMPERFECT
+     (GLOSS): and + I + be added + 
+
+INPUT STRING: √‰
+LOOK-UP WORD: >n
+     Comment: 
+  SOLUTION 1: (>an) [>an_1] >an/FUNC_WORD
+     (GLOSS):  + to + 
+  SOLUTION 2: (>an~a) [>an~a_1] >an~a/FUNC_WORD
+     (GLOSS):  + that + 
+  SOLUTION 3: (<in) [<in_1] <in/FUNC_WORD
+     (GLOSS):  + if/whether + 
+  SOLUTION 4: (<in~a) [<in~a_1] <in~a/FUNC_WORD
+     (GLOSS):  + that/indeed + 
+  SOLUTION 5: (<in) [<in_2] <in/ABBREV
+     (GLOSS):  + N. + 
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: ÂÌ
+LOOK-UP WORD: hy
+     Comment: 
+  SOLUTION 1: (hiya) [hiya_1] hiya/PRON_3FS
+     (GLOSS):  + it/they/she + 
+
+INPUT STRING: „—ﬂ“
+LOOK-UP WORD: mrkz
+     Comment: 
+  SOLUTION 1: (marokaz) [marokaz_1] marokaz/NOUN
+     (GLOSS):  + center/station + 
+  SOLUTION 2: (marokaz) [marokaz_2] marokaz/NOUN
+     (GLOSS):  + ranking/position + 
+  SOLUTION 3: (murak~az) [murak~az_1] murak~az/ADJ
+     (GLOSS):  + concentrated/centralized/condensed + 
+  SOLUTION 4: (murak~az) [murak~az_2] murak~az/NOUN
+     (GLOSS):  + concentrate + 
+
+INPUT STRING: «·Àﬁ·
+LOOK-UP WORD: Alvql
+     Comment: 
+  SOLUTION 1: (Alviqol) [viqol_1] Al/DET+viqol/NOUN
+     (GLOSS): the + weight/load + 
+
+INPUT STRING: «·«ﬁ ’«œÌ
+LOOK-UP WORD: AlAqtSAdy
+     Comment: 
+  SOLUTION 1: (Al{iqotiSAdiy~) [{iqotiSAdiy~_1] Al/DET+{iqotiSAdiy~/NOUN
+     (GLOSS): the + economist + 
+  SOLUTION 2: (Al{iqotiSAdiy~) [{iqotiSAdiy~_2] Al/DET+{iqotiSAdiy~/ADJ
+     (GLOSS): the + economic/economical + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: √Ê—Ê»«
+LOOK-UP WORD: >wrwbA
+     Comment: 
+  SOLUTION 1: (>uwruwb~A) [>uwrub~A_1] >uwruwb~A/NOUN_PROP
+     (GLOSS):  + Europe + 
+
+INPUT STRING: Ê√ﬂ»—
+LOOK-UP WORD: w>kbr
+     Comment: 
+  SOLUTION 1: (wa>akobara) [>akobar_1] wa/CONJ+>akobar/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS): and + magnify + he/it <verb>
+  SOLUTION 2: (wa>akobar) [>akobar_2] wa/CONJ+>akobar/ADJ
+     (GLOSS): and + larger/largest/greater/greatest + 
+  SOLUTION 3: (wa>akobar) [>akobar_3] wa/CONJ+>akobar/ADJ
+     (GLOSS): and + senior/important + 
+  SOLUTION 4: (wa>akobar) [>akobar_4] wa/CONJ+>akobar/NOUN_PROP
+     (GLOSS): and + Akbar + 
+  SOLUTION 5: (wa>akobur) [kabar-u_1] wa/CONJ+>a/IV1S+kobur/VERB_IMPERFECT
+     (GLOSS): and + I + grow older/increase/augment + 
+  SOLUTION 6: (wa>ukab~ir) [kab~ar_1] wa/CONJ+>u/IV1S+kab~ir/VERB_IMPERFECT
+     (GLOSS): and + I + magnify/amplify + 
+  SOLUTION 7: (wa>ukobir) [>akobar_1] wa/CONJ+>u/IV1S+kobir/VERB_IMPERFECT
+     (GLOSS): and + I + magnify + 
+  SOLUTION 8: (wa>ukobar) [>akobar_1] wa/CONJ+>u/IV1S+kobar/VERB_IMPERFECT
+     (GLOSS): and + I + be magnified + 
+
+INPUT STRING: ‘—Ìﬂ
+LOOK-UP WORD: $ryk
+     Comment: 
+  SOLUTION 1: ($ariyk) [$ariyk_1] $ariyk/NOUN
+     (GLOSS):  + partner/associate + 
+  SOLUTION 2: ($aroyka) [$aroy_1] $aroy/NOUN+ka/POSS_PRON_2MS
+     (GLOSS):  + colocynth + your
+  SOLUTION 3: ($aroyki) [$aroy_1] $aroy/NOUN+ki/POSS_PRON_2FS
+     (GLOSS):  + colocynth + your
+
+INPUT STRING:  Ã«—Ì
+LOOK-UP WORD: tjAry
+     Comment: 
+  SOLUTION 1: (tijAriy~) [tijAriy~_1] tijAriy~/ADJ
+     (GLOSS):  + commercial/business + 
+  SOLUTION 2: (tuj~Ariy) [tAjir_1] tuj~Ar/NOUN+iy/POSS_PRON_1S
+     (GLOSS):  + merchants/businessmen + my
+  SOLUTION 3: (tujAriy) [jAraY_1] tu/IV3FS+jAriy/VERB_IMPERFECT
+     (GLOSS): it/they/she + keep up with + 
+  SOLUTION 4: (tujAriy) [jAraY_1] tu/IV2MS+jAriy/VERB_IMPERFECT
+     (GLOSS): you [masc.sg.] + keep up with + 
+  SOLUTION 5: (tujAriy) [jAraY_1] tu/IV2FS+jAr/VERB_IMPERFECT+iy/IVSUFF_SUBJ:2FS_MOOD:SJ
+     (GLOSS): you [fem.sg.] + keep up with + [fem.sg.]
+  SOLUTION 6: (tujAriy) [>ajAr_1] tu/IV2FS+jAr/VERB_IMPERFECT+iy/IVSUFF_SUBJ:2FS_MOOD:SJ
+     (GLOSS): you [fem.sg.] + be granted asylum/be protected + [fem.sg.]
+
+INPUT STRING: ··Â‰œ
+LOOK-UP WORD: llhnd
+     Comment: 
+  SOLUTION 1: (lilhinod) [hinod_1] li/PREP+Al/DET+hinod/NOUN_PROP
+     (GLOSS): to/for + the + India + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: «·ﬁ«—…
+LOOK-UP WORD: AlqArp
+     Comment: 
+  SOLUTION 1: (AlqAr~ap) [qAr~_1] Al/DET+qAr~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + settled/fixed + [fem.sg.]
+  SOLUTION 2: (AlqAr~ap) [qAr~ap_1] Al/DET+qAr~/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + continent + [fem.sg.]
+  SOLUTION 3: (AlqArap) [qArap_1] Al/DET+qAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + hill + [fem.sg.]
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê«⁄ »—
+LOOK-UP WORD: wAEtbr
+     Comment: 
+  SOLUTION 1: (wa{iEotabara) [{iEotabar_1] wa/CONJ+{iEotabar/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS): and + consider/regard + he/it <verb>
+  SOLUTION 2: (wa{uEotubira) [{iEotabar_1] wa/CONJ+{uEotubir/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS): and + be considered/be regarded + he/it <verb>
+  SOLUTION 3: (wa>aEotabir) [{iEotabar_1] wa/CONJ+>a/IV1S+Eotabir/VERB_IMPERFECT
+     (GLOSS): and + I + consider/regard + 
+  SOLUTION 4: (wa>uEotabar) [{iEotabar_1] wa/CONJ+>u/IV1S+Eotabar/VERB_IMPERFECT
+     (GLOSS): and + I + be considered/be regarded + 
+
+INPUT STRING: ”Ì‰€
+LOOK-UP WORD: syng
+     Comment: 
+  SOLUTION 1: (siyng) [siyng_1] siyng/NOUN_PROP
+     (GLOSS):  + Singh + 
+  SOLUTION 2: (sayanog) [nagA-u_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+  SOLUTION 3: (sayanog) [nagaY-i_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+
+INPUT STRING: √‰
+LOOK-UP WORD: >n
+     Comment: 
+  SOLUTION 1: (>an) [>an_1] >an/FUNC_WORD
+     (GLOSS):  + to + 
+  SOLUTION 2: (>an~a) [>an~a_1] >an~a/FUNC_WORD
+     (GLOSS):  + that + 
+  SOLUTION 3: (<in) [<in_1] <in/FUNC_WORD
+     (GLOSS):  + if/whether + 
+  SOLUTION 4: (<in~a) [<in~a_1] <in~a/FUNC_WORD
+     (GLOSS):  + that/indeed + 
+  SOLUTION 5: (<in) [<in_2] <in/ABBREV
+     (GLOSS):  + N. + 
+
+INPUT STRING: «·«” ﬁ—«—
+LOOK-UP WORD: AlAstqrAr
+     Comment: 
+  SOLUTION 1: (Al{isotiqorAr) [{isotiqorAr_1] Al/DET+{isotiqorAr/NOUN
+     (GLOSS): the + stability + 
+
+INPUT STRING: «·«ﬁ ’«œÌ
+LOOK-UP WORD: AlAqtSAdy
+     Comment: 
+  SOLUTION 1: (Al{iqotiSAdiy~) [{iqotiSAdiy~_1] Al/DET+{iqotiSAdiy~/NOUN
+     (GLOSS): the + economist + 
+  SOLUTION 2: (Al{iqotiSAdiy~) [{iqotiSAdiy~_2] Al/DET+{iqotiSAdiy~/ADJ
+     (GLOSS): the + economic/economical + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: √Ê—Ê»«
+LOOK-UP WORD: >wrwbA
+     Comment: 
+  SOLUTION 1: (>uwruwb~A) [>uwrub~A_1] >uwruwb~A/NOUN_PROP
+     (GLOSS):  + Europe + 
+
+INPUT STRING: „Â„
+LOOK-UP WORD: mhm
+     Comment: 
+  SOLUTION 1: (muhim~) [muhim~_1] muhim~/ADJ
+     (GLOSS):  + important/serious + 
+
+INPUT STRING: ··«ﬁ ’«œ
+LOOK-UP WORD: llAqtSAd
+     Comment: 
+  SOLUTION 1: (lil{iqotiSAd) [{iqotiSAd_1] li/PREP+Al/DET+{iqotiSAd/NOUN
+     (GLOSS): to/for + the + economy/saving + 
+
+INPUT STRING: «·⁄«·„Ì
+LOOK-UP WORD: AlEAlmy
+     Comment: 
+  SOLUTION 1: (AlEAlamiy~) [EAlamiy~_1] Al/DET+EAlamiy~/ADJ
+     (GLOSS): the + international/world-wide/world + 
+
+INPUT STRING: ,
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „‘Ì—«
+LOOK-UP WORD: m$yrA
+     Comment: 
+  SOLUTION 1: (mu$iyrAF) [mu$iyr_1] mu$iyr/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + indicative/indicating + [acc.indef.]
+  SOLUTION 2: (mu$iyrA) [mu$iyr_1] mu$iyr/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + indicative/indicating + two
+  SOLUTION 3: (mu$iyrAF) [mu$iyr_1] mu$iyr/ADV+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + indicating + [acc.indef.]
+  SOLUTION 4: (mu$iyrAF) [mu$iyr_2] mu$iyr/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + field marshal/general + [acc.indef.]
+
+INPUT STRING: ≈·Ï
+LOOK-UP WORD: <lY
+     Comment: 
+  SOLUTION 1: (<ilaY) [<ilaY_1] <ilaY/PREP
+     (GLOSS):  + to/towards + 
+
+INPUT STRING: Àﬁ Â
+LOOK-UP WORD: vqth
+     Comment: 
+  SOLUTION 1: (viqath) [viqap_1] viq/NOUN+ap/NSUFF_FEM_SG+hu/POSS_PRON_3MS
+     (GLOSS):  + trust/confidence + his/its
+
+INPUT STRING: »ﬁœ—…
+LOOK-UP WORD: bqdrp
+     Comment: 
+  SOLUTION 1: (biqidorap) [qidorap_1] bi/PREP+qidor/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): by/with + jug/pot + [fem.sg.]
+  SOLUTION 2: (biqudorap) [qudorap_1] bi/PREP+qudor/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): by/with + capacity/ability/potential/power + [fem.sg.]
+
+INPUT STRING: „‰ÿﬁ…
+LOOK-UP WORD: mnTqp
+     Comment: 
+  SOLUTION 1: (minoTaqap) [minoTaqap_1] minoTaq/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + area/zone/territory + [fem.sg.]
+
+INPUT STRING: «·ÌÊ—Ê
+LOOK-UP WORD: Alywrw
+     Comment: 
+  SOLUTION 1: (Alyuwruw) [yuwruw_1] Al/DET+yuwruw/NOUN_PROP
+     (GLOSS): the + Euro + 
+
+INPUT STRING: ⁄·Ï
+LOOK-UP WORD: ElY
+     Comment: 
+  SOLUTION 1: (EalaY) [EalaY_1] EalaY/PREP
+     (GLOSS):  + on/above + 
+  SOLUTION 2: (Ealiy~) [Ealiy~_2] Ealiy~/NOUN_PROP
+     (GLOSS):  + Ali + 
+
+INPUT STRING:  Ã«Ê“
+LOOK-UP WORD: tjAwz
+     Comment: 
+  SOLUTION 1: (tajAwaza) [tajAwaz_1] tajAwaz/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + exceed/disregard + he/it <verb>
+  SOLUTION 2: (tajAwuz) [tajAwuz_1] tajAwuz/NOUN
+     (GLOSS):  + exceeding/overstepping + 
+  SOLUTION 3: (tujAwiz) [jAwaz_1] tu/IV3FS+jAwiz/VERB_IMPERFECT
+     (GLOSS): it/they/she + pass/exceed + 
+  SOLUTION 4: (tujAwiz) [jAwaz_1] tu/IV2MS+jAwiz/VERB_IMPERFECT
+     (GLOSS): you [masc.sg.] + pass/exceed + 
+
+INPUT STRING: «·„‘«ﬂ·
+LOOK-UP WORD: Alm$Akl
+     Comment: 
+  SOLUTION 1: (Alma$Akil) [mu$okilap_1] Al/DET+ma$Akil/NOUN
+     (GLOSS): the + problems/inconveniences/issues + 
+
+INPUT STRING: „Â„«
+LOOK-UP WORD: mhmA
+     Comment: 
+  SOLUTION 1: (mahomA) [mahomA_1] mahomA/CONJ
+     (GLOSS):  + whatever + 
+  SOLUTION 2: (muhim~AF) [muhim~_1] muhim~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + important/serious + [acc.indef.]
+  SOLUTION 3: (muhim~A) [muhim~_1] muhim~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + important/serious + two
+
+INPUT STRING: ﬂ«‰
+LOOK-UP WORD: kAn
+     Comment: 
+  SOLUTION 1: (kAna) [kAn_1] kAn/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + was/were + he/it <verb>
+  SOLUTION 2: (ka|n) [|n_1] ka/PREP+|n/NOUN
+     (GLOSS): like/such as + time/moment + 
+
+INPUT STRING: ÕÃ„Â«
+LOOK-UP WORD: HjmhA
+     Comment: 
+  SOLUTION 1: (HajamahA) [Hajam-u_1] Hajam/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+hA/PVSUFF_DO:3FS
+     (GLOSS):  + cup/muzzle + he/it <verb> it/them/her
+  SOLUTION 2: (HajomhA) [Hajom_1] Hajom/NOUN+hA/POSS_PRON_3FS
+     (GLOSS):  + volume/size + its/their/her
+
+INPUT STRING: Ê√‰Â«
+LOOK-UP WORD: w>nhA
+     Comment: 
+  SOLUTION 1: (wa>an~ahA) [>an~a_1] wa/CONJ+>an~a/FUNC_WORD+hA/PRON_3FS
+     (GLOSS): and + that + it/they/she
+  SOLUTION 2: (wa<in~ahA) [<in~a_1] wa/CONJ+<in~a/FUNC_WORD+hA/PRON_3FS
+     (GLOSS): and + that/indeed + it/they/she
+
+INPUT STRING: ” Œ—Ã
+LOOK-UP WORD: stxrj
+     Comment: 
+  SOLUTION 1: (sataxoruj) [xaraj-u_1] sa/FUT+ta/IV3FS+xoruj/VERB_IMPERFECT
+     (GLOSS): will + it/they/she + go out/exit/leave + 
+  SOLUTION 2: (satuxar~ij) [xar~aj_1] sa/FUT+tu/IV3FS+xar~ij/VERB_IMPERFECT
+     (GLOSS): will + it/they/she + oust/remove + 
+  SOLUTION 3: (satuxorij) [>axoraj_1] sa/FUT+tu/IV3FS+xorij/VERB_IMPERFECT
+     (GLOSS): will + it/they/she + oust/remove/emit + 
+  SOLUTION 4: (satuxoraj) [>axoraj_1] sa/FUT+tu/IV3FS+xoraj/VERB_IMPERFECT
+     (GLOSS): will + it/they/she + be ousted/be removed/be emitted + 
+  SOLUTION 5: (sataxoruj) [xaraj-u_1] sa/FUT+ta/IV2MS+xoruj/VERB_IMPERFECT
+     (GLOSS): will + you [masc.sg.] + go out/exit/leave + 
+  SOLUTION 6: (satuxar~ij) [xar~aj_1] sa/FUT+tu/IV2MS+xar~ij/VERB_IMPERFECT
+     (GLOSS): will + you [masc.sg.] + oust/remove + 
+  SOLUTION 7: (satuxorij) [>axoraj_1] sa/FUT+tu/IV2MS+xorij/VERB_IMPERFECT
+     (GLOSS): will + you [masc.sg.] + oust/remove/emit + 
+  SOLUTION 8: (satuxoraj) [>axoraj_1] sa/FUT+tu/IV2MS+xoraj/VERB_IMPERFECT
+     (GLOSS): will + you [masc.sg.] + be ousted/be removed/be emitted + 
+
+INPUT STRING: „‰Â«
+LOOK-UP WORD: mnhA
+     Comment: 
+  SOLUTION 1: (minhA) [min_1] min/PREP+hA/PRON_3FS
+     (GLOSS):  + from + it/them/her
+
+INPUT STRING: ”«·„…
+LOOK-UP WORD: sAlmp
+     Comment: 
+  SOLUTION 1: (sAlimap) [sAlim_1] sAlim/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + secure/sound/intact + [fem.sg.]
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ì‘«—
+LOOK-UP WORD: y$Ar
+     Comment: 
+  SOLUTION 1: (yu$Ar) [>a$Ar_1] yu/IV3MS+$Ar/VERB_IMPERFECT
+     (GLOSS): he/it + be indicated/be mentioned/be cited + 
+
+INPUT STRING: ≈·Ï
+LOOK-UP WORD: <lY
+     Comment: 
+  SOLUTION 1: (<ilaY) [<ilaY_1] <ilaY/PREP
+     (GLOSS):  + to/towards + 
+
+INPUT STRING: √‰Â
+LOOK-UP WORD: >nh
+     Comment: 
+  SOLUTION 1: (>an~ahu) [>an~a_1] >an~a/FUNC_WORD+hu/PRON_3MS
+     (GLOSS):  + that + it/he
+  SOLUTION 2: (<in~ahu) [<in~a_1] <in~a/FUNC_WORD+hu/PRON_3MS
+     (GLOSS):  + that/indeed + it/he
+  SOLUTION 3: (>anoh) [nahA-u_1] >a/IV1S+noh/VERB_IMPERFECT
+     (GLOSS): I + forbid/restrain + 
+  SOLUTION 4: (>anoha) [nahaY-i_1] >a/IV1S+noha/VERB_IMPERFECT
+     (GLOSS): I + forbid/restrain + 
+
+INPUT STRING: Ê›ﬁ«
+LOOK-UP WORD: wfqA
+     Comment: 
+  SOLUTION 1: (wafaqA) [wafaq-i_1] wafaq/VERB_PERFECT+A/PVSUFF_SUBJ:3MD
+     (GLOSS):  + be right/be suitable + they (both) <verb>
+  SOLUTION 2: (waf~aqA) [waf~aq_1] waf~aq/VERB_PERFECT+A/PVSUFF_SUBJ:3MD
+     (GLOSS):  + grant success + they (both) <verb>
+  SOLUTION 3: (wuf~iqA) [waf~aq_1] wuf~iq/VERB_PERFECT+A/PVSUFF_SUBJ:3MD
+     (GLOSS):  + be granted success/be successful + they (both) <verb>
+  SOLUTION 4: (wifoqAF) [wifoqa_1] wafoq/ADV+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + according to/in accordance with/pursuant to + [acc.indef.]
+
+INPUT STRING: ·»Ì«‰« 
+LOOK-UP WORD: lbyAnAt
+     Comment: 
+  SOLUTION 1: (libayAnAt) [bayAn_1] li/PREP+bayAn/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): for/to + communiquÈ/statement/declaration + [fem.pl.]
+  SOLUTION 2: (libayAnAt) [bayAnAt_1] li/PREP+bayAn/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): for/to + data + [fem.pl.]
+  SOLUTION 3: (labayAnAt) [bayAn_1] la/EMPHATIC_PARTICLE+bayAn/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): indeed/truly + communiquÈ/statement/declaration + [fem.pl.]
+  SOLUTION 4: (labayAnAt) [bayAnAt_1] la/EMPHATIC_PARTICLE+bayAn/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): indeed/truly + data + [fem.pl.]
+
+INPUT STRING: « Õ«œ
+LOOK-UP WORD: AtHAd
+     Comment: 
+  SOLUTION 1: ({it~iHAd) [{it~iHAd_1] {it~iHAd/NOUN
+     (GLOSS):  + union + 
+  SOLUTION 2: ({it~iHAd) [{it~iHAd_2] {it~iHAd/NOUN_PROP
+     (GLOSS):  + Union + 
+  SOLUTION 3: ({it~iHAd) [{it~iHAd_3] {it~iHAd/NOUN_PROP
+     (GLOSS):  + Ittehad + 
+
+INPUT STRING: «·’‰«⁄…
+LOOK-UP WORD: AlSnAEp
+     Comment: 
+  SOLUTION 1: (AlSinAEap) [SinAEap_1] Al/DET+SinAE/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + manufacture/industry/trade/craft + [fem.sg.]
+
+INPUT STRING: «·√·„«‰Ì
+LOOK-UP WORD: Al>lmAny
+     Comment: 
+  SOLUTION 1: (Al>alomAniy~) [>alomAniy~_2] Al/DET+>alomAniy~/NOUN
+     (GLOSS): the + German + 
+  SOLUTION 2: (Al>alomAniy~) [>alomAniy~_2] Al/DET+>alomAniy~/ADJ
+     (GLOSS): the + German + 
+
+INPUT STRING: ›≈‰
+LOOK-UP WORD: f<n
+     Comment: 
+  SOLUTION 1: (fa<in) [<in_1] fa/CONJ+<in/FUNC_WORD
+     (GLOSS): and/so + if/whether + 
+  SOLUTION 2: (fa<in~a) [<in~a_1] fa/CONJ+<in~a/FUNC_WORD
+     (GLOSS): and/so + that/indeed + 
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: ’œ— 
+LOOK-UP WORD: Sdrt
+     Comment: 
+  SOLUTION 1: (Sadarotu) [Sadar-u_1] Sadar/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS):  + be published/be issued + I <verb>
+  SOLUTION 2: (Sadarota) [Sadar-u_1] Sadar/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS):  + be published/be issued + you [masc.sg.] <verb>
+  SOLUTION 3: (Sadaroti) [Sadar-u_1] Sadar/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS):  + be published/be issued + you [fem.sg.] <verb>
+  SOLUTION 4: (Sadarat) [Sadar-u_1] Sadar/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS):  + be published/be issued + it/they/she <verb>
+  SOLUTION 5: (Sad~arotu) [Sad~ar_1] Sad~ar/VERB_PERFECT+tu/PVSUFF_SUBJ:1S
+     (GLOSS):  + export/publish/dispatch + I <verb>
+  SOLUTION 6: (Sad~arota) [Sad~ar_1] Sad~ar/VERB_PERFECT+ta/PVSUFF_SUBJ:2MS
+     (GLOSS):  + export/publish/dispatch + you [masc.sg.] <verb>
+  SOLUTION 7: (Sad~aroti) [Sad~ar_1] Sad~ar/VERB_PERFECT+ti/PVSUFF_SUBJ:2FS
+     (GLOSS):  + export/publish/dispatch + you [fem.sg.] <verb>
+  SOLUTION 8: (Sad~arat) [Sad~ar_1] Sad~ar/VERB_PERFECT+at/PVSUFF_SUBJ:3FS
+     (GLOSS):  + export/publish/dispatch + it/they/she <verb>
+
+INPUT STRING: »÷«∆⁄
+LOOK-UP WORD: bDA}E
+     Comment: 
+  SOLUTION 1: (baDA}iE) [biDAEap_1] baDA}iE/NOUN
+     (GLOSS):  + merchandise/goods + 
+  SOLUTION 2: (biDA}iE) [DA}iE_1] bi/PREP+DA}iE/ADJ
+     (GLOSS): by/with + lost/stray/wasted + 
+
+INPUT STRING: »‰ÕÊ
+LOOK-UP WORD: bnHw
+     Comment: 
+  SOLUTION 1: (binaHow) [naHow_1] bi/PREP+naHow/NOUN
+     (GLOSS): by/with + manner/method + 
+  SOLUTION 2: (binaHow) [naHow_2] bi/PREP+naHow/NOUN
+     (GLOSS): by/with + grammar + 
+
+INPUT STRING: À„«‰Ì…
+LOOK-UP WORD: vmAnyp
+     Comment: 
+  SOLUTION 1: (vamAniyap) [vamAniy_1] vamAniy/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS):  + eight + [fem.sg.]
+
+INPUT STRING: „·Ì«—« 
+LOOK-UP WORD: mlyArAt
+     Comment: 
+  SOLUTION 1: (miloyArAt) [miloyAr_1] miloyAr/NOUN+At/NSUFF_FEM_PL
+     (GLOSS):  + billion + [fem.pl.]
+
+INPUT STRING: ÌÊ—Ê
+LOOK-UP WORD: ywrw
+     Comment: 
+  SOLUTION 1: (yuwruw) [yuwruw_1] yuwruw/NOUN_PROP
+     (GLOSS):  + Euro + 
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 10
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 6
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—« 
+LOOK-UP WORD: mlyArAt
+     Comment: 
+  SOLUTION 1: (miloyArAt) [miloyAr_1] miloyAr/NOUN+At/NSUFF_FEM_PL
+     (GLOSS):  + billion + [fem.pl.]
+
+INPUT STRING: œÊ·«—
+LOOK-UP WORD: dwlAr
+     Comment: 
+  SOLUTION 1: (duwlAr) [duwlAr_1] duwlAr/NOUN
+     (GLOSS):  + dollar + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: ≈·Ï
+LOOK-UP WORD: <lY
+     Comment: 
+  SOLUTION 1: (<ilaY) [<ilaY_1] <ilaY/PREP
+     (GLOSS):  + to/towards + 
+
+INPUT STRING: «·Â‰œ
+LOOK-UP WORD: Alhnd
+     Comment: 
+  SOLUTION 1: (Alhinod) [hinod_1] Al/DET+hinod/NOUN_PROP
+     (GLOSS): the + India + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: 2009
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: Ê√‰
+LOOK-UP WORD: w>n
+     Comment: 
+  SOLUTION 1: (wa<in) [wa<in_1] wa<in/CONJ
+     (GLOSS):  + even if + 
+  SOLUTION 2: (wa>an) [>an_1] wa/CONJ+>an/FUNC_WORD
+     (GLOSS): and + to + 
+  SOLUTION 3: (wa>an~a) [>an~a_1] wa/CONJ+>an~a/FUNC_WORD
+     (GLOSS): and + that + 
+  SOLUTION 4: (wa<in) [<in_1] wa/CONJ+<in/FUNC_WORD
+     (GLOSS): and + if/whether + 
+  SOLUTION 5: (wa<in~a) [<in~a_1] wa/CONJ+<in~a/FUNC_WORD
+     (GLOSS): and + that/indeed + 
+
+INPUT STRING: ÕÃ„
+LOOK-UP WORD: Hjm
+     Comment: 
+  SOLUTION 1: (Hajama) [Hajam-u_1] Hajam/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + cup/muzzle + he/it <verb>
+  SOLUTION 2: (Hajom) [Hajom_1] Hajom/NOUN
+     (GLOSS):  + volume/size + 
+
+INPUT STRING: «· Ã«—…
+LOOK-UP WORD: AltjArp
+     Comment: 
+  SOLUTION 1: (AltijArap) [tijArap_1] Al/DET+tijAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + commerce/business + [fem.sg.]
+
+INPUT STRING: «·≈Ã„«·Ì
+LOOK-UP WORD: Al<jmAly
+     Comment: 
+  SOLUTION 1: (Al<ijomAliy~) [<ijomAliy~_1] Al/DET+<ijomAliy~/ADJ
+     (GLOSS): the + comprehensive/collective/full + 
+  SOLUTION 2: (Al<ijomAliy~) [<ijomAliy~_2] Al/DET+<ijomAliy~/NOUN
+     (GLOSS): the + total/full amount/totality + 
+
+INPUT STRING: »Ì‰
+LOOK-UP WORD: byn
+     Comment: 
+  SOLUTION 1: (bayona) [bayona_1] bayona/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 2: (bayoni) [bayona_1] bayoni/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 3: (bay~ana) [bay~an_1] bay~an/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + declare/demonstrate + he/it <verb>
+  SOLUTION 4: (bay~an~a) [bay~an_1] bay~an/VERB_PERFECT+na/PVSUFF_SUBJ:3FP
+     (GLOSS):  + declare/demonstrate + they [fem.pl.] <verb>
+  SOLUTION 5: (bay~in) [bay~in_1] bay~in/NOUN
+     (GLOSS):  + clear/evident/explicit + 
+  SOLUTION 6: (biyin) [yin_1] bi/PREP+yin/NOUN_PROP
+     (GLOSS): by/with + Yen + 
+
+INPUT STRING: «·»·œÌ‰
+LOOK-UP WORD: Albldyn
+     Comment: 
+  SOLUTION 1: (Albaladayoni) [balad_1] Al/DET+balad/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + country + two
+
+INPUT STRING: »·€
+LOOK-UP WORD: blg
+     Comment: 
+  SOLUTION 1: (balaga) [balag-u_1] balag/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + reach/attain + he/it <verb>
+  SOLUTION 2: (baluga) [balug-u_1] balug/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + be eloquent + he/it <verb>
+  SOLUTION 3: (bal~aga) [bal~ag_1] bal~ag/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + communicate/convey + he/it <verb>
+  SOLUTION 4: (bulag) [bulogap_2] bulag/NOUN
+     (GLOSS):  + slippers + 
+
+INPUT STRING: 13
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: ÌÊ—Ê
+LOOK-UP WORD: ywrw
+     Comment: 
+  SOLUTION 1: (yuwruw) [yuwruw_1] yuwruw/NOUN_PROP
+     (GLOSS):  + Euro + 
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 17
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 2
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: œÊ·«—
+LOOK-UP WORD: dwlAr
+     Comment: 
+  SOLUTION 1: (duwlAr) [duwlAr_1] duwlAr/NOUN
+     (GLOSS):  + dollar + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: ‰›”
+LOOK-UP WORD: nfs
+     Comment: 
+  SOLUTION 1: (nafos) [nafos_1] nafos/NOUN
+     (GLOSS):  + same/self + 
+  SOLUTION 2: (nafusa) [nafus-u_1] nafus/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + be precious/be priceless + he/it <verb>
+  SOLUTION 3: (nafisa) [nafis-a_1] nafis/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + envy/be envious of + he/it <verb>
+  SOLUTION 4: (naf~asa) [naf~as_1] naf~as/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + cheer up/give vent to + he/it <verb>
+  SOLUTION 5: (nafos) [nafos_2] nafos/NOUN
+     (GLOSS):  + soul + 
+  SOLUTION 6: (nafas) [nafas_1] nafas/NOUN
+     (GLOSS):  + breath/puff + 
+
+INPUT STRING: «·⁄«„
+LOOK-UP WORD: AlEAm
+     Comment: 
+  SOLUTION 1: (AlEAm~) [EAm~_1] Al/DET+EAm~/ADJ
+     (GLOSS): the + general/common/public + 
+  SOLUTION 2: (AlEAm) [EAm_1] Al/DET+EAm/NOUN
+     (GLOSS): the + year + 
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê √ Ì
+LOOK-UP WORD: wt>ty
+     Comment: 
+  SOLUTION 1: (wata>otiy) [>ataY-i_1] wa/CONJ+ta/IV3FS+>otiy/VERB_IMPERFECT
+     (GLOSS): and + it/they/she + arrive/come/reach + 
+  SOLUTION 2: (wata>otiy) [>ataY-i_1] wa/CONJ+ta/IV2MS+>otiy/VERB_IMPERFECT
+     (GLOSS): and + you [masc.sg.] + arrive/come/reach + 
+  SOLUTION 3: (wata>otiy) [>ataY-i_1] wa/CONJ+ta/IV2FS+>ot/VERB_IMPERFECT+iy/IVSUFF_SUBJ:2FS_MOOD:SJ
+     (GLOSS): and + you [fem.sg.] + arrive/come/reach + [fem.sg.]
+
+INPUT STRING: “Ì«—…
+LOOK-UP WORD: zyArp
+     Comment: 
+  SOLUTION 1: (ziyArap) [ziyArap_1] ziyAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + visit + [fem.sg.]
+
+INPUT STRING: ”Ì‰€
+LOOK-UP WORD: syng
+     Comment: 
+  SOLUTION 1: (siyng) [siyng_1] siyng/NOUN_PROP
+     (GLOSS):  + Singh + 
+  SOLUTION 2: (sayanog) [nagA-u_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+  SOLUTION 3: (sayanog) [nagaY-i_1] sa/FUT+ya/IV3MS+nog/VERB_IMPERFECT
+     (GLOSS): will + he/it + speak + 
+
+INPUT STRING: ·»—·Ì‰
+LOOK-UP WORD: lbrlyn
+     Comment: 
+  SOLUTION 1: (libaroliyn) [baroliyn_1] li/PREP+baroliyn/NOUN_PROP
+     (GLOSS): for/to + Berlin + 
+  SOLUTION 2: (labaroliyn) [baroliyn_1] la/EMPHATIC_PARTICLE+baroliyn/NOUN_PROP
+     (GLOSS): indeed/truly + Berlin + 
+
+INPUT STRING: »⁄œ
+LOOK-UP WORD: bEd
+     Comment: 
+  SOLUTION 1: (baEoda) [baEoda_1] baEoda/PREP
+     (GLOSS):  + after + 
+  SOLUTION 2: (baEodi) [baEoda_1] baEodi/PREP
+     (GLOSS):  + after + 
+  SOLUTION 3: (baEodu) [baEodu_1] baEodu/ADV
+     (GLOSS):  + afterward/later/(not) yet + 
+  SOLUTION 4: (baEuda) [baEud-u_1] baEud/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + be distant + he/it <verb>
+  SOLUTION 5: (buEod) [buEod_1] buEod/NOUN
+     (GLOSS):  + dimension/distance + 
+  SOLUTION 6: (biEad~) [Ead~_1] bi/PREP+Ead~/NOUN
+     (GLOSS): by/with + counting/calculating + 
+
+INPUT STRING: “Ì«—…
+LOOK-UP WORD: zyArp
+     Comment: 
+  SOLUTION 1: (ziyArap) [ziyArap_1] ziyAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + visit + [fem.sg.]
+
+INPUT STRING: ·»—Êﬂ”·
+LOOK-UP WORD: lbrwksl
+     Comment: 
+  SOLUTION 1: (libruwkosil) [bruwkosil_1] li/PREP+bruwkosil/NOUN_PROP
+     (GLOSS): for/to + Brussels + 
+  SOLUTION 2: (labruwkosil) [bruwkosil_1] la/EMPHATIC_PARTICLE+bruwkosil/NOUN_PROP
+     (GLOSS): indeed/truly + Brussels + 
+
+INPUT STRING: ÕÌÀ
+LOOK-UP WORD: Hyv
+     Comment: 
+  SOLUTION 1: (Hayovu) [Hayovu_1] Hayovu/CONJ
+     (GLOSS):  + where/whereby/since/given that + 
+
+INPUT STRING: ‘«—ﬂ
+LOOK-UP WORD: $Ark
+     Comment: 
+  SOLUTION 1: ($Araka) [$Arak_1] $Arak/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + participate/share + he/it <verb>
+
+INPUT STRING: «·Ã„⁄…
+LOOK-UP WORD: AljmEp
+     Comment: 
+  SOLUTION 1: (AljumoEap) [jumoEap_1] Al/DET+jumoE/NOUN_PROP+ap/NSUFF_FEM_SG
+     (GLOSS): the + Friday + [fem.sg.]
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: ﬁ„…
+LOOK-UP WORD: qmp
+     Comment: 
+  SOLUTION 1: (qim~ap) [qim~ap_1] qim~/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + summit + [fem.sg.]
+
+INPUT STRING: «·Â‰œ
+LOOK-UP WORD: Alhnd
+     Comment: 
+  SOLUTION 1: (Alhinod) [hinod_1] Al/DET+hinod/NOUN_PROP
+     (GLOSS): the + India + 
+
+INPUT STRING: Ê«·« Õ«œ
+LOOK-UP WORD: wAlAtHAd
+     Comment: 
+  SOLUTION 1: (waAl{it~iHAd) [{it~iHAd_1] wa/CONJ+Al/DET+{it~iHAd/NOUN
+     (GLOSS): and + the + union + 
+  SOLUTION 2: (waAl{it~iHAd) [{it~iHAd_2] wa/CONJ+Al/DET+{it~iHAd/NOUN_PROP
+     (GLOSS): and + the + Union + 
+  SOLUTION 3: (waAl{it~iHAd) [{it~iHAd_3] wa/CONJ+Al/DET+{it~iHAd/NOUN_PROP
+     (GLOSS): and + the + Ittehad + 
+
+INPUT STRING: «·√Ê—Ê»Ì
+LOOK-UP WORD: Al>wrwby
+     Comment: 
+  SOLUTION 1: (Al>uwruwb~iy~) [>uwrub~iy~_1] Al/DET+>uwruwb~iy~/NOUN
+     (GLOSS): the + European + 
+  SOLUTION 2: (Al>uwruwb~iy~) [>uwrub~iy~_1] Al/DET+>uwruwb~iy~/ADJ
+     (GLOSS): the + European + 
+
+INPUT STRING: «·Õ«œÌ…
+LOOK-UP WORD: AlHAdyp
+     Comment: 
+  SOLUTION 1: (<iloHAdiy~ap) [<iloHAdiy~_1] <iloHAdiy~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS):  + atheist/godless + [fem.sg.]
+  SOLUTION 2: (AlHAdiyap) [HAdiy_1] Al/DET+HAdiyap/ADJ
+     (GLOSS): the + first (word in "11th", "21st", "31st", through "91st") + 
+  SOLUTION 3: (AlHAdiyap) [HAdiy_2] Al/DET+HAdiy/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + leader/cameleer + [fem.sg.]
+
+INPUT STRING: ⁄‘—…
+LOOK-UP WORD: E$rp
+     Comment: 
+  SOLUTION 1: (Ei$orap) [Ei$orap_1] Ei$or/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + association/relationship + [fem.sg.]
+  SOLUTION 2: (Ea$arap) [Ea$arap_1] Ea$ar/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + ten + [fem.sg.]
+  SOLUTION 3: (Ea$orap) [Ea$arap_1] Ea$or/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + ten + [fem.sg.]
+
+INPUT STRING: «· Ì
+LOOK-UP WORD: Alty
+     Comment: 
+  SOLUTION 1: (Al~atiy) [Al~a*iy_1] Al~atiy/REL_PRON
+     (GLOSS):  + which/who/whom [fem.sg.] + 
+  SOLUTION 2: (|latayo) [|lap_1] |l/NOUN+atayo/NSUFF_FEM_DU_ACCGEN_POSS
+     (GLOSS):  + instrument/apparatus/appliance/machine + two
+  SOLUTION 3: (|latay~a) [|lap_1] |l/NOUN+atayo/NSUFF_FEM_DU_ACCGEN_POSS+ya/POSS_PRON_1S
+     (GLOSS):  + instrument/apparatus/appliance/machine + my two
+  SOLUTION 4: (|latiy) [|lap_1] |l/NOUN+ap/NSUFF_FEM_SG+iy/POSS_PRON_1S
+     (GLOSS):  + instrument/apparatus/appliance/machine + my
+
+INPUT STRING: «⁄ »—
+LOOK-UP WORD: AEtbr
+     Comment: 
+  SOLUTION 1: ({iEotabara) [{iEotabar_1] {iEotabar/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + consider/regard + he/it <verb>
+  SOLUTION 2: ({uEotubira) [{iEotabar_1] {uEotubir/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + be considered/be regarded + he/it <verb>
+  SOLUTION 3: (>aEotabir) [{iEotabar_1] >a/IV1S+Eotabir/VERB_IMPERFECT
+     (GLOSS): I + consider/regard + 
+  SOLUTION 4: (>uEotabar) [{iEotabar_1] >u/IV1S+Eotabar/VERB_IMPERFECT
+     (GLOSS): I + be considered/be regarded + 
+
+INPUT STRING: «·ÿ—›«‰
+LOOK-UP WORD: AlTrfAn
+     Comment: 
+  SOLUTION 1: (AlTarafAni) [Taraf_1] Al/DET+Taraf/NOUN+Ani/NSUFF_MASC_DU_NOM
+     (GLOSS): the + party/side + two
+
+INPUT STRING: Œ·«·Â«
+LOOK-UP WORD: xlAlhA
+     Comment: 
+  SOLUTION 1: (xilAlahA) [xilAla_1] xilAla/PREP+hA/PRON_3FS
+     (GLOSS):  + during/through + it/them/her
+  SOLUTION 2: (xilAlihA) [xilAla_1] xilAli/PREP+hA/PRON_3FS
+     (GLOSS):  + during/through + it/them/her
+
+INPUT STRING: √‰Â„«
+LOOK-UP WORD: >nhmA
+     Comment: 
+  SOLUTION 1: (>an~ahumA) [>an~a_1] >an~a/FUNC_WORD+humA/PRON_3D
+     (GLOSS):  + that + they (both)
+  SOLUTION 2: (<in~ahumA) [<in~a_1] <in~a/FUNC_WORD+humA/PRON_3D
+     (GLOSS):  + that/indeed + they (both)
+
+INPUT STRING: Ì ﬁœ„«‰
+LOOK-UP WORD: ytqdmAn
+     Comment: 
+  SOLUTION 1: (yataqad~amAni) [taqad~am_1] ya/IV3MD+taqad~am/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) + present/advance + [du.]
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: «·„»«ÕÀ« 
+LOOK-UP WORD: AlmbAHvAt
+     Comment: 
+  SOLUTION 1: (AlmubAHavAt) [mubAHavap_1] Al/DET+mubAHav/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): the + discussions/talks/negotiations + [fem.pl.]
+
+INPUT STRING: ÕÊ·
+LOOK-UP WORD: Hwl
+     Comment: 
+  SOLUTION 1: (Hawola) [Hawola_1] Hawola/PREP
+     (GLOSS):  + about/around + 
+  SOLUTION 2: (Hawoli) [Hawola_1] Hawoli/PREP
+     (GLOSS):  + about/around + 
+  SOLUTION 3: (Haw~ala) [Haw~al_1] Haw~al/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + change/convert/switch + he/it <verb>
+  SOLUTION 4: (Hawol) [Hawol_1] Hawol/NOUN
+     (GLOSS):  + power + 
+
+INPUT STRING: « ›«ﬁ
+LOOK-UP WORD: AtfAq
+     Comment: 
+  SOLUTION 1: ({it~ifAq) [{it~ifAq_1] {it~ifAq/NOUN
+     (GLOSS):  + agreement/accord/treaty + 
+
+INPUT STRING: ·· »«œ·
+LOOK-UP WORD: lltbAdl
+     Comment: 
+  SOLUTION 1: (liltabAdul) [tabAdul_1] li/PREP+Al/DET+tabAdul/NOUN
+     (GLOSS): to/for + the + exchange + 
+
+INPUT STRING: «· Ã«—Ì
+LOOK-UP WORD: AltjAry
+     Comment: 
+  SOLUTION 1: (AltijAriy~) [tijAriy~_1] Al/DET+tijAriy~/ADJ
+     (GLOSS): the + commercial/business + 
+
+INPUT STRING: «·Õ—
+LOOK-UP WORD: AlHr
+     Comment: 
+  SOLUTION 1: (AlHar~) [Har~_1] Al/DET+Har~/NOUN
+     (GLOSS): the + warmth/heat + 
+  SOLUTION 2: (AlHur~) [Hur~_1] Al/DET+Hur~/ADJ
+     (GLOSS): the + free/independent + 
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: ÊÌ Êﬁ⁄
+LOOK-UP WORD: wytwqE
+     Comment: 
+  SOLUTION 1: (wayatawaq~aE) [tawaq~aE_1] wa/CONJ+ya/IV3MS+tawaq~aE/VERB_IMPERFECT
+     (GLOSS): and + he/it + expect/count on/anticipate + 
+  SOLUTION 2: (wayutawaq~aE) [tawaq~aE_1] wa/CONJ+yu/IV3MS+tawaq~aE/VERB_IMPERFECT
+     (GLOSS): and + he/it + be expected/be counted on/be anticipated + 
+
+INPUT STRING: √‰
+LOOK-UP WORD: >n
+     Comment: 
+  SOLUTION 1: (>an) [>an_1] >an/FUNC_WORD
+     (GLOSS):  + to + 
+  SOLUTION 2: (>an~a) [>an~a_1] >an~a/FUNC_WORD
+     (GLOSS):  + that + 
+  SOLUTION 3: (<in) [<in_1] <in/FUNC_WORD
+     (GLOSS):  + if/whether + 
+  SOLUTION 4: (<in~a) [<in~a_1] <in~a/FUNC_WORD
+     (GLOSS):  + that/indeed + 
+  SOLUTION 5: (<in) [<in_2] <in/ABBREV
+     (GLOSS):  + N. + 
+
+INPUT STRING: Ì”ﬁÿ
+LOOK-UP WORD: ysqT
+     Comment: 
+  SOLUTION 1: (yasoquT) [saqaT-u_1] ya/IV3MS+soquT/VERB_IMPERFECT
+     (GLOSS): he/it + fall/drop + 
+  SOLUTION 2: (yusoqiT) [>asoqaT_1] yu/IV3MS+soqiT/VERB_IMPERFECT
+     (GLOSS): he/it + shoot down/make fall/abort + 
+  SOLUTION 3: (yusoqaT) [>asoqaT_1] yu/IV3MS+soqaT/VERB_IMPERFECT
+     (GLOSS): he/it + be shot down/be aborted + 
+
+INPUT STRING: «·« ›«ﬁ
+LOOK-UP WORD: AlAtfAq
+     Comment: 
+  SOLUTION 1: (Al{it~ifAq) [{it~ifAq_1] Al/DET+{it~ifAq/NOUN
+     (GLOSS): the + agreement/accord/treaty + 
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: Õ«·
+LOOK-UP WORD: HAl
+     Comment: 
+  SOLUTION 1: (HAla) [HAl-u_1] HAl/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + prevent + he/it <verb>
+  SOLUTION 2: (HAl) [HAl_1] HAl/NOUN
+     (GLOSS):  + situation/condition/case + 
+
+INPUT STRING: ≈»—«„Â
+LOOK-UP WORD: <brAmh
+     Comment: 
+  SOLUTION 1: (<iborAmh) [<iborAm_1] <iborAm/NOUN+hu/POSS_PRON_3MS
+     (GLOSS):  + ratification/conclusion + its/his
+
+INPUT STRING: ‰ÕÊ
+LOOK-UP WORD: nHw
+     Comment: 
+  SOLUTION 1: (naHowa) [naHowa_1] naHowa/PREP
+     (GLOSS):  + towards/approximately + 
+  SOLUTION 2: (naHow) [naHow_1] naHow/NOUN
+     (GLOSS):  + manner/method + 
+  SOLUTION 3: (naHow) [naHow_2] naHow/NOUN
+     (GLOSS):  + grammar + 
+  SOLUTION 4: (naHow) [HawaY-i_1] na/IV1P+How/VERB_IMPERFECT
+     (GLOSS): we + gather/encompass/clasp + 
+
+INPUT STRING: 90
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: %
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „‰
+LOOK-UP WORD: mn
+     Comment: 
+  SOLUTION 1: (min) [min_1] min/PREP
+     (GLOSS):  + from + 
+  SOLUTION 2: (man) [man_1] man/REL_PRON
+     (GLOSS):  + who/whom + 
+  SOLUTION 3: (man) [man_2] man/INTERROG_PART
+     (GLOSS):  + who/whom + 
+
+INPUT STRING: «· ⁄—Ì›« 
+LOOK-UP WORD: AltEryfAt
+     Comment: 
+  SOLUTION 1: (AltaEoriyfAt) [taEoriyf_1] Al/DET+taEoriyf/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): the + identification/notification + [fem.pl.]
+  SOLUTION 2: (AltaEoriyfAt) [taEoriyfap_1] Al/DET+taEoriyf/NOUN+At/NSUFF_FEM_PL
+     (GLOSS): the + notification/information + [fem.pl.]
+
+INPUT STRING: «·Ã„—ﬂÌ…
+LOOK-UP WORD: Aljmrkyp
+     Comment: 
+  SOLUTION 1: (Aljumorukiy~ap) [jumorukiy~_1] Al/DET+jumorukiy~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + customs/tariff + [fem.sg.]
+
+INPUT STRING: »Ì‰
+LOOK-UP WORD: byn
+     Comment: 
+  SOLUTION 1: (bayona) [bayona_1] bayona/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 2: (bayoni) [bayona_1] bayoni/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 3: (bay~ana) [bay~an_1] bay~an/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + declare/demonstrate + he/it <verb>
+  SOLUTION 4: (bay~an~a) [bay~an_1] bay~an/VERB_PERFECT+na/PVSUFF_SUBJ:3FP
+     (GLOSS):  + declare/demonstrate + they [fem.pl.] <verb>
+  SOLUTION 5: (bay~in) [bay~in_1] bay~in/NOUN
+     (GLOSS):  + clear/evident/explicit + 
+  SOLUTION 6: (biyin) [yin_1] bi/PREP+yin/NOUN_PROP
+     (GLOSS): by/with + Yen + 
+
+INPUT STRING: «·ÿ—›Ì‰
+LOOK-UP WORD: AlTrfyn
+     Comment: 
+  SOLUTION 1: (AlTarafayoni) [Taraf_1] Al/DET+Taraf/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + party/side + two
+
+INPUT STRING: ,
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: Êﬁœ
+LOOK-UP WORD: wqd
+     Comment: 
+  SOLUTION 1: (waqada) [waqad-i_1] waqad/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + ignite/burn + he/it <verb>
+  SOLUTION 2: (waq~ada) [waq~ad_1] waq~ad/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + kindle/ignite + he/it <verb>
+  SOLUTION 3: (waqod) [waqod_1] waqod/NOUN
+     (GLOSS):  + burning/fuel + 
+  SOLUTION 4: (waqad) [waqod_1] waqad/NOUN
+     (GLOSS):  + burning/fuel + 
+  SOLUTION 5: (waqad) [qad_1] wa/CONJ+qad/FUNC_WORD
+     (GLOSS): and + (has/have) + 
+  SOLUTION 6: (waqad) [qad_2] wa/CONJ+qad/FUNC_WORD
+     (GLOSS): and + may/might + 
+  SOLUTION 7: (waqid~) [qid~_1] wa/CONJ+qid~/NOUN
+     (GLOSS): and + strap/thong + 
+  SOLUTION 8: (waqad~) [qad~_1] wa/CONJ+qad~/NOUN
+     (GLOSS): and + size/physique + 
+  SOLUTION 9: (waqud~) [qud~_1] wa/CONJ+qud~/NOUN
+     (GLOSS): and + codfish + 
+
+INPUT STRING:  ƒœÌ
+LOOK-UP WORD: t&dy
+     Comment: 
+  SOLUTION 1: (tu&ad~iy) [>ad~aY_1] tu/IV3FS+&ad~iy/VERB_IMPERFECT
+     (GLOSS): it/they/she + direct/guide/lead + 
+  SOLUTION 2: (tu&ad~iy) [>ad~aY_1] tu/IV2MS+&ad~iy/VERB_IMPERFECT
+     (GLOSS): you [masc.sg.] + direct/guide/lead + 
+  SOLUTION 3: (ta&ud~iy) [>ad~-ui_1] ta/IV2FS+&ud~/VERB_IMPERFECT+iy/IVSUFF_SUBJ:2FS_MOOD:SJ
+     (GLOSS): you [fem.sg.] + befall/afflict + [fem.sg.]
+  SOLUTION 4: (tu&ad~iy) [>ad~aY_1] tu/IV2FS+&ad~/VERB_IMPERFECT+iy/IVSUFF_SUBJ:2FS_MOOD:SJ
+     (GLOSS): you [fem.sg.] + direct/guide/lead + [fem.sg.]
+
+INPUT STRING: ·“Ì«œ…
+LOOK-UP WORD: lzyAdp
+     Comment: 
+  SOLUTION 1: (liziyAdap) [ziyAdap_1] li/PREP+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): for/to + increase/addition + [fem.sg.]
+  SOLUTION 2: (laziyAdap) [ziyAdap_1] la/EMPHATIC_PARTICLE+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): indeed/truly + increase/addition + [fem.sg.]
+
+INPUT STRING: ﬂ»Ì—…
+LOOK-UP WORD: kbyrp
+     Comment: 
+  SOLUTION 1: (kabiyrap) [kabiyr_1] kabiyr/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS):  + large/great/important + [fem.sg.]
+  SOLUTION 2: (kabiyrap) [kabiyrap_1] kabiyr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS):  + grave offense + [fem.sg.]
+  SOLUTION 3: (kabiyrap) [biyrap_1] ka/PREP+biyrap/NOUN_PROP
+     (GLOSS): like/such as + Birah/Bireh + 
+  SOLUTION 4: (kabiyrap) [biyrA_1] ka/PREP+biyr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): like/such as + beer + [fem.sg.]
+
+INPUT STRING: ·· »«œ·
+LOOK-UP WORD: lltbAdl
+     Comment: 
+  SOLUTION 1: (liltabAdul) [tabAdul_1] li/PREP+Al/DET+tabAdul/NOUN
+     (GLOSS): to/for + the + exchange + 
+
+INPUT STRING: «· Ã«—Ì
+LOOK-UP WORD: AltjAry
+     Comment: 
+  SOLUTION 1: (AltijAriy~) [tijAriy~_1] Al/DET+tijAriy~/ADJ
+     (GLOSS): the + commercial/business + 
+
+INPUT STRING: «· Ì
+LOOK-UP WORD: Alty
+     Comment: 
+  SOLUTION 1: (Al~atiy) [Al~a*iy_1] Al~atiy/REL_PRON
+     (GLOSS):  + which/who/whom [fem.sg.] + 
+  SOLUTION 2: (|latayo) [|lap_1] |l/NOUN+atayo/NSUFF_FEM_DU_ACCGEN_POSS
+     (GLOSS):  + instrument/apparatus/appliance/machine + two
+  SOLUTION 3: (|latay~a) [|lap_1] |l/NOUN+atayo/NSUFF_FEM_DU_ACCGEN_POSS+ya/POSS_PRON_1S
+     (GLOSS):  + instrument/apparatus/appliance/machine + my two
+  SOLUTION 4: (|latiy) [|lap_1] |l/NOUN+ap/NSUFF_FEM_SG+iy/POSS_PRON_1S
+     (GLOSS):  + instrument/apparatus/appliance/machine + my
+
+INPUT STRING: Ì»·€
+LOOK-UP WORD: yblg
+     Comment: 
+  SOLUTION 1: (yabolug) [balag-u_1] ya/IV3MS+bolug/VERB_IMPERFECT
+     (GLOSS): he/it + reach/attain + 
+  SOLUTION 2: (yabolug) [balug-u_1] ya/IV3MS+bolug/VERB_IMPERFECT
+     (GLOSS): he/it + be eloquent + 
+  SOLUTION 3: (yubal~ig) [bal~ag_1] yu/IV3MS+bal~ig/VERB_IMPERFECT
+     (GLOSS): he/it + communicate/convey + 
+  SOLUTION 4: (yubolig) [>abolag_1] yu/IV3MS+bolig/VERB_IMPERFECT
+     (GLOSS): he/it + report/inform/notify + 
+  SOLUTION 5: (yubolag) [>abolag_1] yu/IV3MS+bolag/VERB_IMPERFECT
+     (GLOSS): he/it + be reported/be informed/be notified + 
+
+INPUT STRING: ÕÃ„Â«
+LOOK-UP WORD: HjmhA
+     Comment: 
+  SOLUTION 1: (HajamahA) [Hajam-u_1] Hajam/VERB_PERFECT+a/PVSUFF_SUBJ:3MS+hA/PVSUFF_DO:3FS
+     (GLOSS):  + cup/muzzle + he/it <verb> it/them/her
+  SOLUTION 2: (HajomhA) [Hajom_1] Hajom/NOUN+hA/POSS_PRON_3FS
+     (GLOSS):  + volume/size + its/their/her
+
+INPUT STRING: Õ«·Ì«
+LOOK-UP WORD: HAlyA
+     Comment: 
+  SOLUTION 1: (HAliy~AF) [HAliy~_1] HAliy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + present/current + [acc.indef.]
+  SOLUTION 2: (HAliy~A) [HAliy~_1] HAliy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + present/current + two
+  SOLUTION 3: (HAliy~AF) [HAliy~_1] HAliy~/ADV+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + presently/currently + [acc.indef.]
+
+INPUT STRING: ‰ÕÊ
+LOOK-UP WORD: nHw
+     Comment: 
+  SOLUTION 1: (naHowa) [naHowa_1] naHowa/PREP
+     (GLOSS):  + towards/approximately + 
+  SOLUTION 2: (naHow) [naHow_1] naHow/NOUN
+     (GLOSS):  + manner/method + 
+  SOLUTION 3: (naHow) [naHow_2] naHow/NOUN
+     (GLOSS):  + grammar + 
+  SOLUTION 4: (naHow) [HawaY-i_1] na/IV1P+How/VERB_IMPERFECT
+     (GLOSS): we + gather/encompass/clasp + 
+
+INPUT STRING: 70
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: ÌÊ—Ê
+LOOK-UP WORD: ywrw
+     Comment: 
+  SOLUTION 1: (yuwruw) [yuwruw_1] yuwruw/NOUN_PROP
+     (GLOSS):  + Euro + 
+
+INPUT STRING: (
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 92
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: 6
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: „·Ì«—
+LOOK-UP WORD: mlyAr
+     Comment: 
+  SOLUTION 1: (miloyAr) [miloyAr_1] miloyAr/NOUN
+     (GLOSS):  + billion + 
+
+INPUT STRING: œÊ·«—
+LOOK-UP WORD: dwlAr
+     Comment: 
+  SOLUTION 1: (duwlAr) [duwlAr_1] duwlAr/NOUN
+     (GLOSS):  + dollar + 
+
+INPUT STRING: )
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: @emptyline@
+     Comment: Non-Alphabetic Data
+#
+
+INPUT STRING: Ê ‘Ì—
+LOOK-UP WORD: wt$yr
+     Comment: 
+  SOLUTION 1: (watu$iyr) [>a$Ar_1] wa/CONJ+tu/IV3FS+$iyr/VERB_IMPERFECT
+     (GLOSS): and + it/they/she + indicate/mention/cite + 
+  SOLUTION 2: (watu$iyr) [>a$Ar_1] wa/CONJ+tu/IV2MS+$iyr/VERB_IMPERFECT
+     (GLOSS): and + you [masc.sg.] + indicate/mention/cite + 
+
+INPUT STRING:  ﬁœÌ—« 
+LOOK-UP WORD: tqdyrAt
+     Comment: 
+  SOLUTION 1: (taqodiyrAt) [taqodiyr_2] taqodiyr/NOUN+At/NSUFF_FEM_PL
+     (GLOSS):  + estimates/calculations/appraisals + [fem.pl.]
+
+INPUT STRING: ≈·Ï
+LOOK-UP WORD: <lY
+     Comment: 
+  SOLUTION 1: (<ilaY) [<ilaY_1] <ilaY/PREP
+     (GLOSS):  + to/towards + 
+
+INPUT STRING: √‰Â
+LOOK-UP WORD: >nh
+     Comment: 
+  SOLUTION 1: (>an~ahu) [>an~a_1] >an~a/FUNC_WORD+hu/PRON_3MS
+     (GLOSS):  + that + it/he
+  SOLUTION 2: (<in~ahu) [<in~a_1] <in~a/FUNC_WORD+hu/PRON_3MS
+     (GLOSS):  + that/indeed + it/he
+  SOLUTION 3: (>anoh) [nahA-u_1] >a/IV1S+noh/VERB_IMPERFECT
+     (GLOSS): I + forbid/restrain + 
+  SOLUTION 4: (>anoha) [nahaY-i_1] >a/IV1S+noha/VERB_IMPERFECT
+     (GLOSS): I + forbid/restrain + 
+
+INPUT STRING: ”Ì „
+LOOK-UP WORD: sytm
+     Comment: 
+  SOLUTION 1: (sayatim~) [tam~-i_1] sa/FUT+ya/IV3MS+tim~/VERB_IMPERFECT
+     (GLOSS): will + he/it + conclude/take place + 
+  SOLUTION 2: (sayatim) [tAm_1] sa/FUT+ya/IV3MS+tim/VERB_IMPERFECT
+     (GLOSS): will + he/it + be infatuated/be enslaved + 
+  SOLUTION 3: (sayutim~) [>atam~_1] sa/FUT+yu/IV3MS+tim~/VERB_IMPERFECT
+     (GLOSS): will + he/it + complete/conclude + 
+  SOLUTION 4: (sayutam~) [>atam~_1] sa/FUT+yu/IV3MS+tam~/VERB_IMPERFECT
+     (GLOSS): will + he/it + be completed/be concluded + 
+
+INPUT STRING: «· ÊﬁÌ⁄
+LOOK-UP WORD: AltwqyE
+     Comment: 
+  SOLUTION 1: (AltawoqiyE) [tawoqiyE_1] Al/DET+tawoqiyE/NOUN
+     (GLOSS): the + signing + 
+  SOLUTION 2: (AltawoqiyE) [tawoqiyE_2] Al/DET+tawoqiyE/NOUN
+     (GLOSS): the + signature + 
+
+INPUT STRING: ⁄·Ï
+LOOK-UP WORD: ElY
+     Comment: 
+  SOLUTION 1: (EalaY) [EalaY_1] EalaY/PREP
+     (GLOSS):  + on/above + 
+  SOLUTION 2: (Ealiy~) [Ealiy~_2] Ealiy~/NOUN_PROP
+     (GLOSS):  + Ali + 
+
+INPUT STRING: « ›«ﬁ
+LOOK-UP WORD: AtfAq
+     Comment: 
+  SOLUTION 1: ({it~ifAq) [{it~ifAq_1] {it~ifAq/NOUN
+     (GLOSS):  + agreement/accord/treaty + 
+
+INPUT STRING: ·· Ã«—…
+LOOK-UP WORD: lltjArp
+     Comment: 
+  SOLUTION 1: (liltijArap) [tijArap_1] li/PREP+Al/DET+tijAr/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): to/for + the + commerce/business + [fem.sg.]
+
+INPUT STRING: «·Õ—…
+LOOK-UP WORD: AlHrp
+     Comment: 
+  SOLUTION 1: (AlHur~ap) [Hur~_1] Al/DET+Hur~/ADJ+ap/NSUFF_FEM_SG
+     (GLOSS): the + free/independent + [fem.sg.]
+  SOLUTION 2: (AlHar~ap) [Har~ap_1] Al/DET+Har~/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): the + stony area/lava field + [fem.sg.]
+
+INPUT STRING: »Ì‰
+LOOK-UP WORD: byn
+     Comment: 
+  SOLUTION 1: (bayona) [bayona_1] bayona/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 2: (bayoni) [bayona_1] bayoni/PREP
+     (GLOSS):  + between/among + 
+  SOLUTION 3: (bay~ana) [bay~an_1] bay~an/VERB_PERFECT+a/PVSUFF_SUBJ:3MS
+     (GLOSS):  + declare/demonstrate + he/it <verb>
+  SOLUTION 4: (bay~an~a) [bay~an_1] bay~an/VERB_PERFECT+na/PVSUFF_SUBJ:3FP
+     (GLOSS):  + declare/demonstrate + they [fem.pl.] <verb>
+  SOLUTION 5: (bay~in) [bay~in_1] bay~in/NOUN
+     (GLOSS):  + clear/evident/explicit + 
+  SOLUTION 6: (biyin) [yin_1] bi/PREP+yin/NOUN_PROP
+     (GLOSS): by/with + Yen + 
+
+INPUT STRING: «·ÿ—›Ì‰
+LOOK-UP WORD: AlTrfyn
+     Comment: 
+  SOLUTION 1: (AlTarafayoni) [Taraf_1] Al/DET+Taraf/NOUN+ayoni/NSUFF_MASC_DU_ACCGEN
+     (GLOSS): the + party/side + two
+
+INPUT STRING: -
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: «·–Ì
+LOOK-UP WORD: Al*y
+     Comment: 
+  SOLUTION 1: (Al~a*iy) [Al~a*iy_1] Al~a*iy/REL_PRON
+     (GLOSS):  + which/who/whom + 
+
+INPUT STRING: ÌÃ—Ì
+LOOK-UP WORD: yjry
+     Comment: 
+  SOLUTION 1: (yajoriy) [jaraY-i_1] ya/IV3MS+joriy/VERB_IMPERFECT
+     (GLOSS): he/it + occur/happen/take place/flow + 
+  SOLUTION 2: (yujoriy) [>ajoraY_1] yu/IV3MS+joriy/VERB_IMPERFECT
+     (GLOSS): he/it + conduct/carry out/perform + 
+
+INPUT STRING: «· ›«Ê÷
+LOOK-UP WORD: AltfAwD
+     Comment: 
+  SOLUTION 1: (AltafAwuD) [tafAwuD_1] Al/DET+tafAwuD/NOUN
+     (GLOSS): the + negotiation/consultation + 
+
+INPUT STRING: »‘√‰Â
+LOOK-UP WORD: b$>nh
+     Comment: 
+  SOLUTION 1: (bi$a>onihi) [$a>on_1] bi/PREP+$a>on/NOUN+hi/PRON_3MS
+     (GLOSS):  + concerning/regarding + it/him
+  SOLUTION 2: (bi$a>onh) [$a>on_1] bi/PREP+$a>on/NOUN+hu/POSS_PRON_3MS
+     (GLOSS): by/with + matter/affair + its/his
+
+INPUT STRING: „‰–
+LOOK-UP WORD: mn*
+     Comment: 
+  SOLUTION 1: (muno*u) [muno*u_1] muno*u/CONJ
+     (GLOSS):  + since/ago + 
+  SOLUTION 2: (muno*u) [muno*u_1] muno*u/PREP
+     (GLOSS):  + since/starting from + 
+
+INPUT STRING: 2007
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: -
+     Comment: Non-Alphabetic Data
+
+INPUT STRING: ›Ì
+LOOK-UP WORD: fy
+     Comment: 
+  SOLUTION 1: (fiy) [fiy_1] fiy/PREP
+     (GLOSS):  + in + 
+  SOLUTION 2: (fiy~a) [fiy_1] fiy/PREP+~a/PRON_1S
+     (GLOSS):  + in + me
+  SOLUTION 3: (fiy) [fiy_2] Viy/ABBREV
+     (GLOSS):  + V. + 
+
+INPUT STRING: «·—»Ì⁄
+LOOK-UP WORD: AlrbyE
+     Comment: 
+  SOLUTION 1: (AlrabiyE) [rabiyE_1] Al/DET+rabiyE/NOUN_PROP
+     (GLOSS): the + Spring + 
+  SOLUTION 2: (AlrabiyE) [rabiyE_2] Al/DET+rabiyE/NOUN_PROP
+     (GLOSS): the + Rabiee + 
+
+INPUT STRING: «·„ﬁ»·
+LOOK-UP WORD: Almqbl
+     Comment: 
+  SOLUTION 1: (Almuqobil) [muqobil_1] Al/DET+muqobil/ADJ
+     (GLOSS): the + next/coming/approaching + 
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#

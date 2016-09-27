@@ -1,0 +1,24 @@
+#!/bin/sh
+
+# Set these paths appropriately
+
+BIN=/projets/musk/Youtube/ling_youtube/treetagger/bin
+CMD=/projets/musk/Youtube/ling_youtube/treetagger/cmd
+LIB=/projets/musk/Youtube/ling_youtube/treetagger/lib
+
+#TOKENIZER="perl -I ${CMD} ${CMD}/segment-zh.perl"
+TOKENIZER="/projets/musk/Youtube/Python-2.7/bin/python ${CMD}/segment_cn.py"
+#
+TAGGER=${BIN}/tree-tagger
+PARFILE=${LIB}/zh.par
+
+# put all on one line
+#echo $*
+#rm cn_token.txt
+#cat $* >> cn_token.txt
+var=$(cat $*)
+# do tokenization
+#$TOKENIZER ${CMD}/chinese-3c.utf8 ${CMD}/chinese-2c.utf8 |
+$TOKENIZER "$var" |
+# tagging
+$TAGGER $PARFILE -token -lemma -sgml

@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 18 16:59:11 2016
+
+@author: saber
+"""
+
+import nltk
+
+# Tokennize fril file txt
+file_txt = open('/home/saber/DA_Stage/Stage/nltk/data/fr.txt') 
+txt = file_txt.read().encode('utf8')
+print(txt)
+tokens = nltk.word_tokenize(txt)
+#for i in tokens:
+#    print i
+text = nltk.Text(tokens)   
+text.collocations()
+len(text)
+len(set(text)) 
+text.count('centrales')
+#print(text)
+#nltk.pos_tag(tokens)
+ngrams = nltk.ngrams(text,4)
+for grams in ngrams:
+  print grams

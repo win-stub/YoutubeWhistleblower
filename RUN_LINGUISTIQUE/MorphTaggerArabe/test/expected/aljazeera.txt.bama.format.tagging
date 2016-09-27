@@ -1,0 +1,24 @@
+<s> [_NN_] [_CD_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NN_] [_PUNC_] [_JJ_] [_CD_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NN_] [_PUNC_] [_NN_] [_NN_] [_PUNC_] [_NN_] [_CD_] [_PUNC_] [_CD_] [_PUNC_] [_NNP_] [_JJ_] [_PUNC_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_PUNC_] [_NNP_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_NNP_] [_CC__NNP_] [_VBP_] [_IN__NN_] [_NN__PRPS_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_VBD_] [_NNP_] [_CC__NNP_] [_CC__PRP_] [_VBP_] [_NN_] [_NN_] [_NN_] [_JJ_] [_IN__PRP_] [_IN_] [_NNS_] [_JJ_] [_RP__VBP_] [_NN_] [_JJ_] [_IN__NN_] [_CD_] [_PUNC_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBD_] [_NN_] [_JJ_] [_NNP_] [_NNP_] [_IN_] [_NN_] [_NN__PRPS_] [_NN__PRPS_] [_IN__NN_] [_NN_] [_JJ_] [_NNP_] [_NNP_] [_IN_] [_NNP_] [_NN_] [_IN__CC_] [_NNS_] [_VBP_] [_IN_] [_NN_] [_NN_] [_JJ_] [_IN_] [_NNS_] [_RP__VBP_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_IN__NN_] [_NN_] [_CD_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBD_] [_NN_] [_IN_] [_NN__PRPS_] [_IN_] [_CC_] [_NN_] [_NNP_] [_NN_] [_VBP_] [_NN_] [_VBP_] [_IN__NN_] [_IN_] [_NNS_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_IN_] [_NN__PRPS_] [_VBD_] [_NNP_] [_CC_] [_PUNC_] [_NN__PRPS_] [_RP_] [_VBP_] [_NN_] [_PUNC_] </s> 
+<s> [_NN_] [_IN__NNS_] [_NN__PRPS_] [_PUNC_] [_JJ_] [_PUNC_] [_IN_] [_NNP_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBD_] [_CC_] [_NNP_] [_PRP_] [_NN_] [_NN_] [_JJ_] [_IN_] [_NNP_] [_CC__JJ_] [_NN_] [_JJ_] [_IN__NNP_] [_IN_] [_NN_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBD_] [_NNP_] [_CC_] [_NN_] [_JJ_] [_IN_] [_NNP_] [_JJ_] [_IN__NN_] [_JJ_] [_PUNC_] [_JJ_] [_IN_] [_NN__PRPS_] [_IN__NN_] [_NN_] [_NNP_] [_IN_] [_NN_] [_NN_] [_JJ_] [_VBD_] [_NN__PRPS_] [_CC__CC__PRP_] [_VBP_] [_IN__PRP_] [_NN_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_VBN_] [_IN_] [_CC__PRP_] [_NN_] [_IN__NNS_] [_NN_] [_NN_] [_JJ_] [_CC__CC_] [_NNP_] [_VBD_] [_IN__JJ_] [_IN__NN_] [_NN_] [_JJ_] [_NN_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NNS_] [_NN_] [_PUNC_] [_IN_] [_NNP_] [_IN_] [_CD_] [_CC__CC_] [_NN_] [_NN_] [_JJ_] [_IN_] [_NNS_] [_VBD_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_IN_] [_NN_] [_JJ_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBP_] [_NN_] [_NNP_] [_IN__NNP_] [_IN_] [_NN_] [_IN__NNP_] [_CC_] [_VBD_] [_NN_] [_IN_] [_NN_] [_NNP_] [_CC__NN_] [_JJ_] [_JJ_] [_JJ_] [_WP_] [_VBD_] [_NNS_] [_IN__PRP_] [_CC__PRP_] [_VBP_] [_IN_] [_NNS_] [_IN_] [_NN_] [_IN__NN_] [_JJ_] [_JJ_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBN_] [_CC_] [_VBP_] [_NN_] [_IN_] [_NN_] [_NN__PRPS_] [_IN_] [_CD_] [_PUNC_] [_IN_] [_NNS_] [_JJ_] [_IN_] [_NNS_] [_PUNC_] [_CC__CC_] [_VBP_] [_IN__NN_] [_JJ_] [_IN__NN_] [_JJ_] [_WP_] [_VBP_] [_NN__PRPS_] [_JJ_] [_IN_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_CD_] [_PUNC_] [_CD_] [_NN_] [_NN_] [_PUNC_] [_PUNC_] </s> 
+<s> [_PUNC_] [_FW_] [_PUNC_] </s> 
+<s> [_CC__VBP_] [_NNS_] [_IN_] [_CC__PRP_] [_VBP_] [_NN_] [_IN_] [_NN_] [_IN__NN_] [_JJ_] [_IN_] [_NNS_] [_PUNC_] [_WP_] [_VBP_] [_NN_] [_IN__NN__PRPS_] [_IN_] [_CD_] [_PUNC_] [_IN_] [_NN_] [_JJ_] [_PUNC_] </s> 

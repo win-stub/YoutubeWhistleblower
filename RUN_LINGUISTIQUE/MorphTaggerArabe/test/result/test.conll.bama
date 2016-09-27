@@ -1,0 +1,54 @@
+
+INPUT STRING: √·„«‰Ì«
+LOOK-UP WORD: >lmAnyA
+     Comment: 
+  SOLUTION 1: (>alomAniyA) [>alomAniyA_1] >alomAniyA/NOUN_PROP
+     (GLOSS):  + Germany + 
+  SOLUTION 2: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/NOUN+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 3: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/NOUN+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+  SOLUTION 4: (>alomAniy~AF) [>alomAniy~_2] >alomAniy~/ADJ+AF/NSUFF_MASC_SG_ACC_INDEF
+     (GLOSS):  + German + [acc.indef.]
+  SOLUTION 5: (>alomAniy~A) [>alomAniy~_2] >alomAniy~/ADJ+A/NSUFF_MASC_DU_NOM_POSS
+     (GLOSS):  + German + two
+
+INPUT STRING: Ê
+LOOK-UP WORD: w
+     Comment: 
+  SOLUTION 1: (wa) [wa_1] wa/CONJ
+     (GLOSS):  + and + 
+  SOLUTION 2: (w) [wa_1] w/ABBREV
+     (GLOSS):  + W/6th + 
+
+INPUT STRING: «·Â‰œ
+LOOK-UP WORD: Alhnd
+     Comment: 
+  SOLUTION 1: (Alhinod) [hinod_1] Al/DET+hinod/NOUN_PROP
+     (GLOSS): the + India + 
+
+INPUT STRING:  ÿ„Õ«‰
+LOOK-UP WORD: tTmHAn
+     Comment: 
+  SOLUTION 1: (taTomaHAni) [TamaH-a_1] ta/IV2D+TomaH/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): you (both) + covet/desire + [du.]
+  SOLUTION 2: (taTomaHAni) [TamaH-a_1] ta/IV3FD+TomaH/VERB_IMPERFECT+Ani/IVSUFF_SUBJ:D_MOOD:I
+     (GLOSS): they (both) [fem.du.] + covet/desire + [du.]
+
+INPUT STRING: ·“Ì«œ…
+LOOK-UP WORD: lzyAdp
+     Comment: 
+  SOLUTION 1: (liziyAdap) [ziyAdap_1] li/PREP+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): for/to + increase/addition + [fem.sg.]
+  SOLUTION 2: (laziyAdap) [ziyAdap_1] la/EMPHATIC_PARTICLE+ziyAd/NOUN+ap/NSUFF_FEM_SG
+     (GLOSS): indeed/truly + increase/addition + [fem.sg.]
+
+INPUT STRING:  Ã«— Â„«
+LOOK-UP WORD: tjArthmA
+     Comment: 
+  SOLUTION 1: (tijArathmA) [tijArap_1] tijAr/NOUN+ap/NSUFF_FEM_SG+humA/POSS_PRON_3D
+     (GLOSS):  + commerce/business + their
+
+INPUT STRING: .
+     Comment: Non-Alphabetic Data
+#

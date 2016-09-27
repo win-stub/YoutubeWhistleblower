@@ -1,0 +1,55 @@
+2010-12-13.11-51-34.leucin lt
+2010-12-13.11-51-37.leucin rm MT08.ar.bama.format.* tagging-MT08.ar.bama.format 
+2010-12-13.11-51-47.leucin ../MTTest.pl -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 -dir learn ../../MorphTagger_portable/old_output/MT08.ar.bama.format
+2010-12-13.11-51-55.leucin ../MTTest.pl -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 -dir ../learn ../../MorphTagger_portable/old_output/MT08.ar.bama.format
+2010-12-13.11-54-18.leucin ../MTTest.pl -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 -dir ../learn ../../MorphTagger_portable/old_output/MT08.ar.bama.format
+2010-12-13.11-54-19.leucin lt
+2010-12-13.11-54-26.leucin less tagging-MT08.ar.bama.format 
+2010-12-13.12-27-15.leucin #./MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm ../MorphTagger_portable/MT08.ar
+2010-12-13.12-27-20.leucin #../MTTest.pl -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 -dir ../learn ../../MorphTagger_portable/old_output/MT08.ar.bama.format
+2010-12-13.12-27-40.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../MorphTagger_portable/MT08.ar
+2010-12-13.12-27-52.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-28-21.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-29-08.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-29-43.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-29-45.leucin lt
+2010-12-13.12-29-53.leucin rm -r bkp/MT08.ar.* 
+2010-12-13.12-29-59.leucin rm -r bkp/
+2010-12-13.12-30-00.leucin lt
+2010-12-13.12-30-03.leucin rm MT08.ar.*
+2010-12-13.12-30-09.leucin rm tagging-MT08.ar.bama.format 
+2010-12-13.12-30-26.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-30-48.leucin less ../../splitTXT.pl 
+2010-12-13.12-30-57.leucin lt
+2010-12-13.12-31-06.leucin rm -r bkp/ MT08.ar.* 
+2010-12-13.12-31-07.leucin rm tagging-MT08.ar.bama.format 
+2010-12-13.12-32-26.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.12-32-47.leucin lt
+2010-12-13.12-32-53.leucin less tagging-MT08.ar.bama.format 
+2010-12-13.12-33-03.leucin less MT08.ar.bama.format.tagging
+2010-12-13.13-29-36.leucin less ../MTSeg.sh 
+2010-12-13.13-30-08.leucin #TOOLSDIR=../; SRILM=/work/hasan/srilm_1.5_beta/src/bin/i686; perl -I${TOOLSDIR} ${TOOLSDIR}/MTTest.pl --srilm ${SRILM} --d ${OUTPUTDIR} --lm $CORPUSLM --lex $CORPUSLEXPROB --o ${OUTPATH}.bama.format.mt ${OUTPATH}.bama.format
+2010-12-13.13-30-10.leucin lt
+2010-12-13.13-30-16.leucin rm MT08.ar.prep.gz
+2010-12-13.13-31-08.leucin OUTPUTDIR=.; CORPUSLM=corpus.lm; CORPUSLEXPROB=corpus.lex.prob; OUTPATH=MT08.ar; TOOLSDIR=../; SRILM=/work/hasan/srilm_1.5_beta/src/bin/i686; perl -I${TOOLSDIR} ${TOOLSDIR}/MTTest.pl --srilm ${SRILM} --d ${OUTPUTDIR} --lm $CORPUSLM --lex $CORPUSLEXPROB --o ${OUTPATH}.bama.format.mt ${OUTPATH}.bama.format
+2010-12-13.13-31-12.leucin lt
+2010-12-13.13-31-15.leucin lt bkp/
+2010-12-13.13-31-25.leucin mv bkp/MT08.ar.bama.format .
+2010-12-13.13-31-40.leucin OUTPUTDIR=.; CORPUSLM=corpus.lm; CORPUSLEXPROB=corpus.lex.prob; OUTPATH=MT08.ar; TOOLSDIR=../; SRILM=/work/hasan/srilm_1.5_beta/src/bin/i686; perl -I${TOOLSDIR} ${TOOLSDIR}/MTTest.pl --srilm ${SRILM} --d ${OUTPUTDIR} --lm $CORPUSLM --lex $CORPUSLEXPROB --o ${OUTPATH}.bama.format.mt ${OUTPATH}.bama.format
+2010-12-13.13-31-42.leucin lt
+2010-12-13.13-31-52.leucin lt bkp/
+2010-12-13.13-31-53.leucin lt
+2010-12-13.13-31-56.leucin less tagging-MT08.ar.bama.format 
+2010-12-13.13-33-14.leucin OUTPUTDIR=.; CORPUSLM=corpus.lm; CORPUSLEXPROB=corpus.lex.prob; OUTPATH=MT08.ar; TOOLSDIR=../; SRILM=/work/hasan/srilm_1.5_beta/src/bin/i686; perl -I${TOOLSDIR} ${TOOLSDIR}/MTTest.pl --srilm ${SRILM} --d ${OUTPUTDIR} --lm $CORPUSLM --lex $CORPUSLEXPROB --o ${OUTPATH}.bama.format.mt ${OUTPATH}.bama.format
+2010-12-13.13-33-55.leucin OUTPUTDIR=.; CORPUSLM=corpus.lm; CORPUSLEXPROB=corpus.lex.prob; OUTPATH=MT08.ar; TOOLSDIR=../; SRILM=/work/hasan/srilm_1.5_beta/src/bin/i686; perl -I${TOOLSDIR} ${TOOLSDIR}/MTTest.pl --srilm ${SRILM} --d ${OUTPUTDIR} --lm $CORPUSLM --lex $CORPUSLEXPROB --o ${OUTPATH}.bama.format.mt ${OUTPATH}.bama.format
+2010-12-13.13-33-57.leucin lt
+2010-12-13.13-34-11.leucin rm -r MT08.ar.bama.format* bkp/ tagging-MT08.ar.bama.format 
+2010-12-13.13-34-12.leucin lt
+2010-12-13.13-34-30.leucin lt
+2010-12-13.13-35-18.leucin ../MTSeg.sh -lm corpus.lm -lex corpus.lex.prob -srilm /work/hasan/srilm_1.5_beta/src/bin/i686 ../../MorphTagger_portable/MT08.ar
+2010-12-13.13-35-20.leucin lt
+2010-12-13.13-35-28.leucin zless MT08.ar.prep.gz 
+2010-12-13.13-35-57.leucin ln -s ../../MorphTagger_portable/MT08.ar .
+2010-12-13.13-40-55.leucin lt
+2010-12-13.13-41-07.leucin rm -r MT08.ar* bkp/ MT08.ar
+2010-12-13.13-41-08.leucin lt

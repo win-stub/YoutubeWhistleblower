@@ -1,0 +1,44 @@
+2010-12-13.13-49-35.leucin gedit aljazeera.txt
+2010-12-13.13-52-27.leucin #../MTSeg.sh --srilm --dir . --lm ../model_atb1v3/corpus.lm --lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-52-35.leucin #../MTSeg.sh --srilm --dir . --lm ../model_atb1v3/corpus.lm --lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-52-47.leucin ../MTSeg.sh --srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ --dir . --lm ../model_atb1v3/corpus.lm --lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-53-01.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-53-17.leucin ../AraMorph/AraMorphNF.pl 
+2010-12-13.13-54-31.leucin lt
+2010-12-13.13-54-43.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-55-33.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-55-42.leucin rm aljazeera.txt.prep.gz 
+2010-12-13.13-55-48.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-56-04.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-56-06.leucin lt
+2010-12-13.13-56-12.leucin zless aljazeera.txt.prep.gz 
+2010-12-13.13-56-16.leucin less aljazeera.txt.bama.format.tagging 
+2010-12-13.13-56-20.leucin rm aljazeera.txt.prep.gz 
+2010-12-13.13-56-34.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-56-35.leucin n
+2010-12-13.13-56-36.leucin lt
+2010-12-13.13-56-42.leucin zless aljazeera.txt.prep.gz 
+2010-12-13.13-57-21.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-57-25.leucin rm aljazeera.txt.prep.gz 
+2010-12-13.13-57-39.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.13-57-39.leucin n
+2010-12-13.13-57-40.leucin lt
+2010-12-13.13-58-54.leucin zless aljazeera.txt.prep.gz 
+2010-12-13.14-00-22.leucin lt
+2010-12-13.14-00-24.leucin rm -r bkp/
+2010-12-13.14-00-51.leucin lt
+2010-12-13.14-00-55.leucin rm aljazeera.txt.prep.gz 
+2010-12-13.14-01-13.leucin lt
+2010-12-13.14-01-16.leucin rm aljazeera.txt.bama.format.tagging 
+2010-12-13.14-01-28.leucin ../MTSeg.sh -srilm /work/hasan/srilm_1.5_beta/src/bin/i686/ -dir . -lm ../model_atb1v3/corpus.lm -lex ../model_atb1v3/corpus.lex.prob aljazeera.txt 
+2010-12-13.14-01-32.leucin lt
+2010-12-13.14-01-36.leucin zless aljazeera.txt.prep.gz 
+2010-12-13.14-01-45.leucin less aljazeera.txt.bama.format
+2010-12-13.14-01-46.leucin less aljazeera.txt.bama.format.
+2010-12-13.14-01-50.leucin less aljazeera.txt.bama.format.log 
+2010-12-13.14-01-57.leucin less aljazeera.txt.bama.format
+2010-12-13.14-02-19.leucin lt
+2010-12-13.14-02-41.leucin mkdir expected; mv aljazeera.txt.* expexted/.
+2010-12-13.14-02-43.leucin lt
+2010-12-13.14-02-53.leucin mv aljazeera.txt.* expected/.
+2010-12-13.14-02-53.leucin lt

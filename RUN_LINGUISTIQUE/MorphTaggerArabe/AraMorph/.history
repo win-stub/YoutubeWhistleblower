@@ -1,0 +1,6 @@
+2010-12-13.13-53-24.leucin lt
+2010-12-13.13-53-30.leucin rm table* dict*
+2010-12-13.13-53-33.leucin lt ../../dict
+2010-12-13.13-53-34.leucin lt ../../dict*
+2010-12-13.13-53-45.leucin ln -s /work/smt2/mansour/segmenters/mt_seg/dict* .
+2010-12-13.13-53-50.leucin ln -s /work/smt2/mansour/segmenters/mt_seg/table* .

@@ -1,0 +1,402 @@
+<s> <s>
+ [_NNP_] {(NNP Al>Hd)} [_NN_] {(NN Al>Hd)}
+ [_CD_] {(CD 6)}
+ [_PUNC_] {(PUNC /)}
+ [_CD_] {(CD 1)}
+ [_PUNC_] {(PUNC /)}
+ [_CD_] {(CD 1432)}
+ [_NN_] {(NN h)}
+ [_PUNC_] {(PUNC -)}
+ [_JJ_] {(JJ AlmwAfq)}
+ [_CD_] {(CD 12)}
+ [_PUNC_] {(PUNC /)}
+ [_CD_] {(CD 12)}
+ [_PUNC_] {(PUNC /)}
+ [_CD_] {(CD 2010)}
+ [_NN_] {(NN m)}
+ [_PUNC_] {(PUNC ()}
+ [_JJ_] {(JJ |xr)} [_NN_] {(NN |xr)}
+ [_NN_] {(NN tHdyv)}
+ [_PUNC_] {(PUNC ))}
+ [_NN_] {(NN AlsAEp)}
+ [_CD_] {(CD 18)}
+ [_PUNC_] {(PUNC :)}
+ [_CD_] {(CD 11)}
+ [_PUNC_] {(PUNC ()}
+ [_NNP_] {(NNP mkp)}
+ [_JJ_] {(JJ Almkrmp)} [_NN_] {(NN Almkrmp)}
+ [_PUNC_] {(PUNC ))}
+ [_PUNC_] {(PUNC ,)}
+ [_CD_] {(CD 15)}
+ [_PUNC_] {(PUNC :)}
+ [_CD_] {(CD 11)}
+ [_PUNC_] {(PUNC ()}
+ [_NNP_] {(NNP grynt$)}
+ [_PUNC_] {(PUNC ))}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_JJ_] {(JJ >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_NN_] {(NN >lmAnyA)} [_NNS_] {(NNS >lmAnyA)}
+ [_CC__NNP_] {(CC w) (NNP Alhnd)}
+ [_VBP_] {(VBP tTmHAn)}
+ [_RP__NN_] {(RP l) (NN zyAdp)} [_IN__NN_] {(IN l) (NN zyAdp)}
+ [_NN__PRPS_] {(NN tjArp) (PRPS hmA)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_VBD_] {(VBD qAlt)}
+ [_JJ_] {(JJ >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_NN_] {(NN >lmAnyA)} [_NNS_] {(NNS >lmAnyA)}
+ [_CC__NNP_] {(CC w) (NNP Alhnd)}
+ [_CC__PRP_] {(CC <n) (PRP hmA)}
+ [_VBP_] {(VBP tsthdfAn)}
+ [_NN_] {(NN zyAdp)}
+ [_VBD_] {(VBD Hjm)} [_NN_] {(NN Hjm)}
+ [_NN_] {(NN AltbAdl)}
+ [_JJ_] {(JJ AltjAry)}
+ [_VBD__PRP_] {(VBD byn) (PRP hmA)} [_IN__NNP__PRPS_] {(IN b) (NNP yn) (PRPS hmA)} [_IN__PRP_] {(IN byn) (PRP hmA)} [_NN__PRPS_] {(NN byn) (PRPS hmA)}
+ [_IN_] {(IN xlAl)} [_NN_] {(NN xlAl)}
+ [_JJ_] {(JJ AlEAmyn)} [_NNS_] {(NNS AlEAmyn)}
+ [_JJ_] {(JJ Almqblyn)}
+ [_RP__VBP_] {(RP l) (VBP ytjAwz)}
+ [_NN_] {(NN AlmstwY)}
+ [_JJ_] {(JJ AlHAly)}
+ [_IN__NN_] {(IN b) (NN nsbp)}
+ [_CD_] {(CD 50)}
+ [_PUNC_] {(PUNC %)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBD_] {(CC w) (VBD SrHt)}
+ [_NN_] {(NN Almst$Arp)}
+ [_JJ_] {(JJ Al>lmAnyp)} [_NNP_] {(NNP Al>lmAnyp)} [_NN_] {(NN Al>lmAnyp)}
+ [_NNP_] {(NNP >njylA)}
+ [_NNP_] {(NNP myrkl)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NN_] {(NN m&tmr)}
+ [_JJ_] {(JJ SHfy)} [_NN__PRPS_] {(NN SHf) (PRPS y)} [_NN_] {(NN SHfy)}
+ [_VBD__PRP_] {(VBD jmE) (PRP hA)} [_NN__PRPS_] {(NN jmE) (PRPS hA)}
+ [_IN__NN_] {(IN b) (NN r}ys)}
+ [_NN_] {(NN AlwzrA')}
+ [_JJ_] {(JJ Alhndy)}
+ [_NNP_] {(NNP mAnmwhAn)}
+ [_VBP_] {(VBP syng)} [_NNP_] {(NNP syng)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NNP_] {(NNP brlyn)}
+ [_NNP_] {(NNP Alsbt)} [_NN_] {(NN Alsbt)}
+ [_IN__CC_] {(IN b) (CC >n)}
+ [_NNS_] {(NNS AlTrfyn)}
+ [_VBP_] {(VBP yTmHAn)}
+ [_IN_] {(IN <lY)}
+ [_NN_] {(NN zyAdp)}
+ [_NN_] {(NN AltjArp)}
+ [_JJ_] {(JJ Alsnwyp)}
+ [_IN_] {(IN byn)} [_VBD_] {(VBD byn)} [_NN_] {(NN byn)} [_IN__NNP_] {(IN b) (NNP yn)}
+ [_NNS_] {(NNS Albldyn)}
+ [_RP__VBD_] {(RP l) (VBD tblg)} [_RP__VBP_] {(RP l) (VBP tblg)}
+ [_CD_] {(CD 20)}
+ [_NN_] {(NN mlyAr)}
+ [_NNP_] {(NNP ywrw)} [_NN_] {(NN ywrw)}
+ [_PUNC_] {(PUNC ()}
+ [_CD_] {(CD 26)}
+ [_PUNC_] {(PUNC .)}
+ [_CD_] {(CD 5)}
+ [_NN_] {(NN mlyAr)}
+ [_NN_] {(NN dwlAr)}
+ [_PUNC_] {(PUNC ))}
+ [_IN__NN_] {(IN b) (NN Hlwl)}
+ [_JJ_] {(JJ EAm)} [_NN_] {(NN EAm)}
+ [_CD_] {(CD 2012)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBD_] {(CC w) (VBD Ebrt)}
+ [_NN_] {(NN Almst$Arp)}
+ [_IN_] {(IN En)} [_VBD_] {(VBD En)}
+ [_NN__PRPS_] {(NN vqp) (PRPS hA)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NO_FUNC_] {(NO_FUNC >n)} [_CC_] {(CC >n)} [_NN_] {(NN <n)}
+ [_NN_] {(NN {qtSAd)}
+ [_NNP_] {(NNP Alhnd)}
+ [_NN_] {(NN AlmtSAEd)}
+ [_VBP_] {(VBP sywfr)}
+ [_CC__VBD_] {(CC f) (VBD rSA)} [_NN_] {(NN frSA)}
+ [_VBP_] {(VBP tEwd)} [_NN_] {(NN tEwd)} [_VBD_] {(VBD tEwd)}
+ [_IN__NN_] {(IN b) (NN AlfA}dp)}
+ [_IN_] {(IN ElY)} [_NNP_] {(NNP Ely)}
+ [_NNS_] {(NNS AlTrfyn)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_RP_] {(RP mn)} [_IN_] {(IN mn)} [_WP_] {(WP mn)}
+ [_NN__PRPS_] {(NN jhp) (PRPS h)}
+ [_VBD_] {(VBD qAl)}
+ [_VBP_] {(VBP syng)} [_NNP_] {(NNP syng)}
+ [_CC_] {(CC <n)} [_NN_] {(NN <n)}
+ [_PUNC_] {(PUNC ")}
+ [_VBD__PRP_] {(VBD tEAwn) (PRP nA)} [_VBP__PRP_] {(VBP tEAwn) (PRP nA)} [_NN__PRPS_] {(NN tEAwn) (PRPS nA)}
+ [_RP_] {(RP lA)} [_NNP_] {(NNP lA)}
+ [_VBP_] {(VBP yErf)} [_VBN_] {(VBN yErf)}
+ [_NN_] {(NN HdwdA)}
+ [_PUNC_] {(PUNC ")}
+</s> </s>
+<s> <s>
+ [_JJ_] {(JJ m$ydA)} [_NN_] {(NN m$ydA)} [_NNS_] {(NNS m$ydA)}
+ [_IN__NNS_] {(IN b) (NNS ElAqAt)}
+ [_NN__PRPS_] {(NN blAd) (PRPS h)}
+ [_PUNC_] {(PUNC ")}
+ [_JJ_] {(JJ Almtmyzp)}
+ [_PUNC_] {(PUNC ")}
+ [_IN_] {(IN mE)}
+ [_JJ_] {(JJ >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_NN_] {(NN >lmAnyA)} [_NNS_] {(NNS >lmAnyA)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBP_] {(CC w) (VBP >DAf)} [_CC__VBD_] {(CC w) (VBD >DAf)}
+ [_NO_FUNC_] {(NO_FUNC >n)} [_CC_] {(CC >n)} [_NN_] {(NN <n)}
+ [_JJ_] {(JJ >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_NN_] {(NN >lmAnyA)} [_NNS_] {(NNS >lmAnyA)}
+ [_PRP_] {(PRP hy)}
+ [_JJ_] {(JJ mrkz)} [_NN_] {(NN mrkz)}
+ [_NN_] {(NN Alvql)}
+ [_JJ_] {(JJ Al{qtSAdy)} [_NN_] {(NN Al{qtSAdy)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NNP_] {(NNP >wrwbA)}
+ [_CC__VBP_] {(CC w) (VBP >kbr)} [_CC__JJ_] {(CC w) (JJ >kbr)} [_CC__VBD_] {(CC w) (VBD >kbr)} [_CC__NNP_] {(CC w) (NNP >kbr)}
+ [_NN__PRPS_] {(NN $ry) (PRPS k)} [_NN_] {(NN $ryk)}
+ [_JJ_] {(JJ tjAry)} [_VBP_] {(VBP tjAry)} [_NN__PRPS_] {(NN tjAr) (PRPS y)}
+ [_IN__NNP_] {(IN l) (NNP Alhnd)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_JJ_] {(JJ AlqArp)} [_NN_] {(NN AlqArp)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBP_] {(CC w) (VBP >Etbr)} [_CC__VBD_] {(CC w) (VBD {Etbr)} [_CC__VBN_] {(CC w) (VBN {Etbr)}
+ [_VBP_] {(VBP syng)} [_NNP_] {(NNP syng)}
+ [_NO_FUNC_] {(NO_FUNC >n)} [_CC_] {(CC >n)} [_NN_] {(NN <n)}
+ [_NN_] {(NN Al{stqrAr)}
+ [_JJ_] {(JJ Al{qtSAdy)} [_NN_] {(NN Al{qtSAdy)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NNP_] {(NNP >wrwbA)}
+ [_JJ_] {(JJ mhm)}
+ [_IN__NN_] {(IN l) (NN Al{qtSAd)}
+ [_JJ_] {(JJ AlEAlmy)}
+ [_PUNC_] {(PUNC ,)}
+ [_JJ_] {(JJ m$yrA)} [_RB_] {(RB m$yrA)} [_NN_] {(NN m$yrA)}
+ [_IN_] {(IN <lY)}
+ [_NN__PRPS_] {(NN vqp) (PRPS h)}
+ [_IN__NN_] {(IN b) (NN qdrp)}
+ [_NN_] {(NN mnTqp)}
+ [_NNP_] {(NNP Alywrw)}
+ [_IN_] {(IN ElY)} [_NNP_] {(NNP Ely)}
+ [_VBP_] {(VBP tjAwz)} [_VBD_] {(VBD tjAwz)} [_NN_] {(NN tjAwz)}
+ [_NN_] {(NN Alm$Akl)}
+ [_JJ_] {(JJ mhmA)} [_CC_] {(CC mhmA)}
+ [_VBD_] {(VBD kAn)} [_IN__NN_] {(IN k) (NN |n)}
+ [_VBD__PRP_] {(VBD Hjm) (PRP hA)} [_NN__PRPS_] {(NN Hjm) (PRPS hA)}
+ [_CC__CC__PRP_] {(CC w) (CC >n) (PRP hA)}
+ [_VBP_] {(VBP stxrj)}
+ [_IN__PRP_] {(IN mn) (PRP hA)}
+ [_NN_] {(NN sAlmp)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_VBP_] {(VBP y$Ar)} [_VBN_] {(VBN y$Ar)}
+ [_IN_] {(IN <lY)}
+ [_VBP_] {(VBP >nh)} [_CC__PRP_] {(CC >n) (PRP h)}
+ [_RB_] {(RB wfqA)} [_VBD_] {(VBD wfqA)} [_NN_] {(NN wfqA)}
+ [_RP__NNS_] {(RP l) (NNS byAnAt)} [_IN__NNS_] {(IN l) (NNS byAnAt)}
+ [_NNP_] {(NNP {tHAd)} [_NN_] {(NN {tHAd)}
+ [_NN_] {(NN AlSnAEp)}
+ [_JJ_] {(JJ Al>lmAny)} [_NN_] {(NN Al>lmAny)}
+ [_CC__CC_] {(CC f) (CC <n)}
+ [_JJ_] {(JJ >lmAnyA)} [_NNP_] {(NNP >lmAnyA)} [_NN_] {(NN >lmAnyA)} [_NNS_] {(NNS >lmAnyA)}
+ [_VBD_] {(VBD Sdrt)}
+ [_IN__JJ_] {(IN b) (JJ DA}E)} [_NN_] {(NN bDA}E)}
+ [_IN__NN_] {(IN b) (NN nHw)}
+ [_JJ_] {(JJ vmAnyp)} [_NN_] {(NN vmAnyp)}
+ [_JJ_] {(JJ mlyArAt)} [_NNS_] {(NNS mlyArAt)}
+ [_NNP_] {(NNP ywrw)} [_NN_] {(NN ywrw)}
+ [_PUNC_] {(PUNC ()}
+ [_CD_] {(CD 10)}
+ [_PUNC_] {(PUNC .)}
+ [_CD_] {(CD 6)}
+ [_JJ_] {(JJ mlyArAt)} [_NNS_] {(NNS mlyArAt)}
+ [_NN_] {(NN dwlAr)}
+ [_PUNC_] {(PUNC ))}
+ [_IN_] {(IN <lY)}
+ [_NNP_] {(NNP Alhnd)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_CD_] {(CD 2009)}
+ [_CC__CC_] {(CC w) (CC >n)} [_CC_] {(CC w<n)}
+ [_VBD_] {(VBD Hjm)} [_NN_] {(NN Hjm)}
+ [_NN_] {(NN AltjArp)}
+ [_JJ_] {(JJ Al<jmAly)} [_NN_] {(NN Al<jmAly)}
+ [_IN_] {(IN byn)} [_VBD_] {(VBD byn)} [_NN_] {(NN byn)} [_IN__NNP_] {(IN b) (NNP yn)}
+ [_NNS_] {(NNS Albldyn)}
+ [_NN_] {(NN blg)} [_VBD_] {(VBD blg)}
+ [_CD_] {(CD 13)}
+ [_NN_] {(NN mlyAr)}
+ [_NNP_] {(NNP ywrw)} [_NN_] {(NN ywrw)}
+ [_PUNC_] {(PUNC ()}
+ [_CD_] {(CD 17)}
+ [_PUNC_] {(PUNC .)}
+ [_CD_] {(CD 2)}
+ [_NN_] {(NN mlyAr)}
+ [_NN_] {(NN dwlAr)}
+ [_PUNC_] {(PUNC ))}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_VBD_] {(VBD nfs)} [_NN_] {(NN nfs)}
+ [_JJ_] {(JJ AlEAm)} [_NO_FUNC_] {(NO_FUNC AlEAm)} [_NN_] {(NN AlEAm)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBP_] {(CC w) (VBP t>ty)}
+ [_NN_] {(NN zyArp)}
+ [_VBP_] {(VBP syng)} [_NNP_] {(NNP syng)}
+ [_IN__NNP_] {(IN l) (NNP brlyn)} [_RP__NNP_] {(RP l) (NNP brlyn)}
+ [_NO_FUNC_] {(NO_FUNC bEd)} [_IN_] {(IN bEd)} [_RB_] {(RB bEd)} [_VBD_] {(VBD bEd)} [_NN_] {(NN bEd)} [_IN__NN_] {(IN b) (NN Ed)}
+ [_NN_] {(NN zyArp)}
+ [_IN__NNP_] {(IN l) (NNP brwksl)} [_RP__NNP_] {(RP l) (NNP brwksl)}
+ [_CC_] {(CC Hyv)}
+ [_VBD_] {(VBD $Ark)}
+ [_NNP_] {(NNP AljmEp)} [_NN_] {(NN AljmEp)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NN_] {(NN qmp)}
+ [_NNP_] {(NNP Alhnd)}
+ [_CC__NN_] {(CC w) (NN Al{tHAd)} [_CC__NNP_] {(CC w) (NNP Al{tHAd)}
+ [_JJ_] {(JJ Al>wrwby)} [_NN_] {(NN Al>wrwby)}
+ [_JJ_] {(JJ AlHAdyp)} [_NN_] {(NN AlHAdyp)}
+ [_JJ_] {(JJ E$rp)} [_NN_] {(NN E$rp)}
+ [_NNS__PRPS_] {(NNS |lty) (PRPS y)} [_WP_] {(WP Alty)} [_NN__PRPS_] {(NN |lp) (PRPS y)} [_NNS_] {(NNS |lty)}
+ [_VBP_] {(VBP >Etbr)} [_VBD_] {(VBD {Etbr)} [_VBN_] {(VBN {Etbr)}
+ [_NNS_] {(NNS AlTrfAn)}
+ [_IN__PRP_] {(IN xlAl) (PRP hA)} [_NN__PRPS_] {(NN xlAl) (PRPS hA)}
+ [_CC__PRP_] {(CC >n) (PRP hmA)}
+ [_VBP_] {(VBP ytqdmAn)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NNS_] {(NNS AlmbAHvAt)}
+ [_IN_] {(IN Hwl)} [_NN_] {(NN Hwl)} [_VBD_] {(VBD Hwl)}
+ [_NN_] {(NN {tfAq)}
+ [_IN__NN_] {(IN l) (NN AltbAdl)}
+ [_JJ_] {(JJ AltjAry)}
+ [_JJ_] {(JJ AlHr)} [_NN_] {(NN AlHr)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBP_] {(CC w) (VBP ytwqE)} [_CC__VBN_] {(CC w) (VBN ytwqE)}
+ [_NO_FUNC_] {(NO_FUNC >n)} [_CC_] {(CC >n)} [_NN_] {(NN <n)}
+ [_VBP_] {(VBP ysqT)}
+ [_NN_] {(NN Al{tfAq)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_VBD_] {(VBD HAl)} [_NN_] {(NN HAl)}
+ [_NN__PRPS_] {(NN <brAm) (PRPS h)}
+ [_VBP_] {(VBP nHw)} [_IN_] {(IN nHw)} [_NN_] {(NN nHw)}
+ [_CD_] {(CD 90)}
+ [_PUNC_] {(PUNC %)}
+ [_RP_] {(RP mn)} [_IN_] {(IN mn)} [_WP_] {(WP mn)}
+ [_NNS_] {(NNS AltEryfAt)}
+ [_JJ_] {(JJ Aljmrkyp)}
+ [_IN_] {(IN byn)} [_VBD_] {(VBD byn)} [_NN_] {(NN byn)} [_IN__NNP_] {(IN b) (NNP yn)}
+ [_NNS_] {(NNS AlTrfyn)}
+ [_PUNC_] {(PUNC ,)}
+ [_CC__NN_] {(CC w) (NN qd)} [_CC__CC_] {(CC w) (CC qd)} [_NN_] {(NN wqd)} [_VBD_] {(VBD wqd)}
+ [_VBP_] {(VBP t&dy)}
+ [_RP__NN_] {(RP l) (NN zyAdp)} [_IN__NN_] {(IN l) (NN zyAdp)}
+ [_JJ_] {(JJ kbyrp)} [_NN_] {(NN kbyrp)} [_IN__NNP_] {(IN k) (NNP byrp)} [_IN__NN_] {(IN k) (NN byrp)}
+ [_IN__NN_] {(IN l) (NN AltbAdl)}
+ [_JJ_] {(JJ AltjAry)}
+ [_NNS__PRPS_] {(NNS |lty) (PRPS y)} [_WP_] {(WP Alty)} [_NN__PRPS_] {(NN |lp) (PRPS y)} [_NNS_] {(NNS |lty)}
+ [_VBP_] {(VBP yblg)}
+ [_VBD__PRP_] {(VBD Hjm) (PRP hA)} [_NN__PRPS_] {(NN Hjm) (PRPS hA)}
+ [_JJ_] {(JJ HAlyA)} [_RB_] {(RB HAlyA)}
+ [_VBP_] {(VBP nHw)} [_IN_] {(IN nHw)} [_NN_] {(NN nHw)}
+ [_CD_] {(CD 70)}
+ [_NN_] {(NN mlyAr)}
+ [_NNP_] {(NNP ywrw)} [_NN_] {(NN ywrw)}
+ [_PUNC_] {(PUNC ()}
+ [_CD_] {(CD 92)}
+ [_PUNC_] {(PUNC .)}
+ [_CD_] {(CD 6)}
+ [_NN_] {(NN mlyAr)}
+ [_NN_] {(NN dwlAr)}
+ [_PUNC_] {(PUNC ))}
+ [_PUNC_] {(PUNC .)}
+</s> </s>
+<s> <s>
+ [_PUNC_] {(PUNC @)}
+ [_FW_] {(FW emptyline)}
+ [_PUNC_] {(PUNC @)}
+</s> </s>
+<s> <s>
+ [_CC__VBP_] {(CC w) (VBP t$yr)}
+ [_NNS_] {(NNS tqdyrAt)}
+ [_IN_] {(IN <lY)}
+ [_VBP_] {(VBP >nh)} [_CC__PRP_] {(CC >n) (PRP h)}
+ [_VBP_] {(VBP sytm)}
+ [_NN_] {(NN AltwqyE)}
+ [_IN_] {(IN ElY)} [_NNP_] {(NNP Ely)}
+ [_NN_] {(NN {tfAq)}
+ [_IN__NN_] {(IN l) (NN AltjArp)}
+ [_JJ_] {(JJ AlHrp)} [_NN_] {(NN AlHrp)}
+ [_IN_] {(IN byn)} [_VBD_] {(VBD byn)} [_NN_] {(NN byn)} [_IN__NNP_] {(IN b) (NNP yn)}
+ [_NNS_] {(NNS AlTrfyn)}
+ [_PUNC_] {(PUNC -)}
+ [_NO_FUNC_] {(NO_FUNC Al*y)} [_WP_] {(WP Al*y)}
+ [_VBP_] {(VBP yjry)}
+ [_NN_] {(NN AltfAwD)}
+ [_IN__NN__PRP_] {(IN b) (NN $>n) (PRP h)} [_IN__NN__PRPS_] {(IN b) (NN $>n) (PRPS h)}
+ [_IN_] {(IN mn*)} [_CC_] {(CC mn*)}
+ [_CD_] {(CD 2007)}
+ [_PUNC_] {(PUNC -)}
+ [_IN_] {(IN fy)} [_IN__PRP_] {(IN fy) (PRP y)} [_NN_] {(NN Vy)}
+ [_NNP_] {(NNP AlrbyE)} [_NN_] {(NN AlrbyE)}
+ [_JJ_] {(JJ Almqbl)}
+ [_PUNC_] {(PUNC .)}
+</s> </s>

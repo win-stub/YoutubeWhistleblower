@@ -1,0 +1,9 @@
+command: 
+analyses file: result/test.conll.bama.format
+language model file: ../model_atb1v3/corpus.lm
+Order: 3
+NBest: 1
+Output probability: no
+lexical probabilities: ../model_atb1v3/corpus.lex.prob
+working directory: result
+corpus analyses used
